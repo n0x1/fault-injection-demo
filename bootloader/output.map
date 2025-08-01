@@ -1,0 +1,2699 @@
+Archive member included to satisfy reference by file (symbol)
+
+../lib/uart/bin/uart.a(uart.o)
+                              src/bootloader.o (initialize_uarts)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 src/bootloader.o
+ .data          0x00000000        0x0 src/bootloader.o
+ .bss           0x00000000        0x0 src/bootloader.o
+ .bss.offset    0x00000000        0x4 src/bootloader.o
+ .bss.num_packets
+                0x00000000        0x4 src/bootloader.o
+ .bss.data      0x00000000      0xc00 src/bootloader.o
+ .text.Delay    0x00000000       0x28 src/bootloader.o
+ .text          0x00000000        0x0 src/startup_gcc.o
+ .data          0x00000000        0x0 src/startup_gcc.o
+ .bss           0x00000000        0x0 src/startup_gcc.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/aes.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/aes.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/aes.o
+ .rodata.AESReset.str1.1
+                0x00000000        0x6 ../lib/driverlib/bin/aes.o
+ .text.AESReset
+                0x00000000       0x30 ../lib/driverlib/bin/aes.o
+ .text.AESConfigSet
+                0x00000000       0x90 ../lib/driverlib/bin/aes.o
+ .text.AESKey1Set
+                0x00000000       0x64 ../lib/driverlib/bin/aes.o
+ .text.AESKey2Set
+                0x00000000       0x64 ../lib/driverlib/bin/aes.o
+ .text.AESKey3Set
+                0x00000000       0x30 ../lib/driverlib/bin/aes.o
+ .text.AESIVSet
+                0x00000000       0x30 ../lib/driverlib/bin/aes.o
+ .text.AESIVRead
+                0x00000000       0x38 ../lib/driverlib/bin/aes.o
+ .text.AESTagRead
+                0x00000000       0x38 ../lib/driverlib/bin/aes.o
+ .text.AESLengthSet
+                0x00000000       0x28 ../lib/driverlib/bin/aes.o
+ .text.AESAuthLengthSet
+                0x00000000       0x24 ../lib/driverlib/bin/aes.o
+ .text.AESDataReadNonBlocking
+                0x00000000       0x3c ../lib/driverlib/bin/aes.o
+ .text.AESDataRead
+                0x00000000       0x38 ../lib/driverlib/bin/aes.o
+ .text.AESDataWriteNonBlocking
+                0x00000000       0x3c ../lib/driverlib/bin/aes.o
+ .text.AESDataWrite
+                0x00000000       0x38 ../lib/driverlib/bin/aes.o
+ .text.AESDataProcess
+                0x00000000       0x50 ../lib/driverlib/bin/aes.o
+ .text.AESDataAuth
+                0x00000000       0x50 ../lib/driverlib/bin/aes.o
+ .text.AESDataProcessAuth
+                0x00000000       0x78 ../lib/driverlib/bin/aes.o
+ .text.AESIntStatus
+                0x00000000       0x64 ../lib/driverlib/bin/aes.o
+ .text.AESIntEnable
+                0x00000000       0x84 ../lib/driverlib/bin/aes.o
+ .text.AESIntDisable
+                0x00000000       0x88 ../lib/driverlib/bin/aes.o
+ .text.AESIntClear
+                0x00000000       0x60 ../lib/driverlib/bin/aes.o
+ .text.AESIntRegister
+                0x00000000       0x30 ../lib/driverlib/bin/aes.o
+ .text.AESIntUnregister
+                0x00000000       0x2c ../lib/driverlib/bin/aes.o
+ .text.AESDMAEnable
+                0x00000000       0x48 ../lib/driverlib/bin/aes.o
+ .text.AESDMADisable
+                0x00000000       0x48 ../lib/driverlib/bin/aes.o
+ .debug_info    0x00000000      0xe12 ../lib/driverlib/bin/aes.o
+ .debug_abbrev  0x00000000      0x182 ../lib/driverlib/bin/aes.o
+ .debug_loclists
+                0x00000000      0x802 ../lib/driverlib/bin/aes.o
+ .debug_aranges
+                0x00000000       0xe0 ../lib/driverlib/bin/aes.o
+ .debug_rnglists
+                0x00000000       0xa6 ../lib/driverlib/bin/aes.o
+ .debug_line    0x00000000      0xc09 ../lib/driverlib/bin/aes.o
+ .debug_str     0x00000000      0x420 ../lib/driverlib/bin/aes.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/aes.o
+ .debug_frame   0x00000000      0x2dc ../lib/driverlib/bin/aes.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/aes.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/can.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/can.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/can.o
+ .text._CANBaseValid
+                0x00000000       0x14 ../lib/driverlib/bin/can.o
+ .rodata._CANIntNumberGet.str1.1
+                0x00000000        0x6 ../lib/driverlib/bin/can.o
+ .text._CANIntNumberGet
+                0x00000000       0x7c ../lib/driverlib/bin/can.o
+ .text.CANInit  0x00000000       0x58 ../lib/driverlib/bin/can.o
+ .text.CANEnable
+                0x00000000       0x24 ../lib/driverlib/bin/can.o
+ .text.CANDisable
+                0x00000000       0x24 ../lib/driverlib/bin/can.o
+ .text.CANBitTimingGet
+                0x00000000       0x54 ../lib/driverlib/bin/can.o
+ .text.CANBitRateSet
+                0x00000000       0xac ../lib/driverlib/bin/can.o
+ .text.CANBitTimingSet
+                0x00000000       0xc0 ../lib/driverlib/bin/can.o
+ .text.CANIntRegister
+                0x00000000       0x40 ../lib/driverlib/bin/can.o
+ .text.CANIntUnregister
+                0x00000000       0x3c ../lib/driverlib/bin/can.o
+ .text.CANIntEnable
+                0x00000000       0x34 ../lib/driverlib/bin/can.o
+ .text.CANIntDisable
+                0x00000000       0x34 ../lib/driverlib/bin/can.o
+ .text.CANIntStatus
+                0x00000000       0x38 ../lib/driverlib/bin/can.o
+ .text.CANIntClear
+                0x00000000       0x50 ../lib/driverlib/bin/can.o
+ .text.CANRetrySet
+                0x00000000       0x2c ../lib/driverlib/bin/can.o
+ .text.CANRetryGet
+                0x00000000       0x28 ../lib/driverlib/bin/can.o
+ .text.CANStatusGet
+                0x00000000       0x58 ../lib/driverlib/bin/can.o
+ .text.CANErrCntrGet
+                0x00000000       0x30 ../lib/driverlib/bin/can.o
+ .text.CANMessageSet
+                0x00000000      0x190 ../lib/driverlib/bin/can.o
+ .text.CANMessageGet
+                0x00000000      0x17c ../lib/driverlib/bin/can.o
+ .text.CANMessageClear
+                0x00000000       0x44 ../lib/driverlib/bin/can.o
+ .rodata.CSWTCH.55
+                0x00000000        0x5 ../lib/driverlib/bin/can.o
+ .rodata.CSWTCH.54
+                0x00000000        0xa ../lib/driverlib/bin/can.o
+ .rodata.CSWTCH.53
+                0x00000000        0xa ../lib/driverlib/bin/can.o
+ .rodata.CSWTCH.52
+                0x00000000        0xa ../lib/driverlib/bin/can.o
+ .rodata.CSWTCH.51
+                0x00000000        0x5 ../lib/driverlib/bin/can.o
+ .rodata.CSWTCH.50
+                0x00000000        0x5 ../lib/driverlib/bin/can.o
+ .rodata.g_ui16CANBitValues
+                0x00000000       0x20 ../lib/driverlib/bin/can.o
+ .debug_info    0x00000000     0x113a ../lib/driverlib/bin/can.o
+ .debug_abbrev  0x00000000      0x27f ../lib/driverlib/bin/can.o
+ .debug_loclists
+                0x00000000      0xad4 ../lib/driverlib/bin/can.o
+ .debug_aranges
+                0x00000000       0xc0 ../lib/driverlib/bin/can.o
+ .debug_rnglists
+                0x00000000       0x8f ../lib/driverlib/bin/can.o
+ .debug_line    0x00000000      0xe9f ../lib/driverlib/bin/can.o
+ .debug_str     0x00000000      0x6c5 ../lib/driverlib/bin/can.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/can.o
+ .debug_frame   0x00000000      0x258 ../lib/driverlib/bin/can.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/can.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/comp.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/comp.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/comp.o
+ .rodata.ComparatorConfigure.str1.1
+                0x00000000        0x7 ../lib/driverlib/bin/comp.o
+ .text.ComparatorConfigure
+                0x00000000       0x34 ../lib/driverlib/bin/comp.o
+ .text.ComparatorRefSet
+                0x00000000       0x20 ../lib/driverlib/bin/comp.o
+ .text.ComparatorValueGet
+                0x00000000       0x34 ../lib/driverlib/bin/comp.o
+ .text.ComparatorIntRegister
+                0x00000000       0x48 ../lib/driverlib/bin/comp.o
+ .text.ComparatorIntUnregister
+                0x00000000       0x4c ../lib/driverlib/bin/comp.o
+ .text.ComparatorIntEnable
+                0x00000000       0x38 ../lib/driverlib/bin/comp.o
+ .text.ComparatorIntDisable
+                0x00000000       0x3c ../lib/driverlib/bin/comp.o
+ .text.ComparatorIntStatus
+                0x00000000       0x40 ../lib/driverlib/bin/comp.o
+ .text.ComparatorIntClear
+                0x00000000       0x34 ../lib/driverlib/bin/comp.o
+ .debug_info    0x00000000      0x595 ../lib/driverlib/bin/comp.o
+ .debug_abbrev  0x00000000      0x147 ../lib/driverlib/bin/comp.o
+ .debug_loclists
+                0x00000000      0x313 ../lib/driverlib/bin/comp.o
+ .debug_aranges
+                0x00000000       0x60 ../lib/driverlib/bin/comp.o
+ .debug_rnglists
+                0x00000000       0x43 ../lib/driverlib/bin/comp.o
+ .debug_line    0x00000000      0x3fc ../lib/driverlib/bin/comp.o
+ .debug_str     0x00000000      0x2b4 ../lib/driverlib/bin/comp.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/comp.o
+ .debug_frame   0x00000000      0x118 ../lib/driverlib/bin/comp.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/comp.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/cpu.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/cpu.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/cpu.o
+ .text.CPUcpsid
+                0x00000000        0x8 ../lib/driverlib/bin/cpu.o
+ .text.CPUprimask
+                0x00000000        0x6 ../lib/driverlib/bin/cpu.o
+ .text.CPUcpsie
+                0x00000000        0x8 ../lib/driverlib/bin/cpu.o
+ .text.CPUwfi   0x00000000        0x4 ../lib/driverlib/bin/cpu.o
+ .text.CPUbasepriSet
+                0x00000000        0x6 ../lib/driverlib/bin/cpu.o
+ .text.CPUbasepriGet
+                0x00000000        0x6 ../lib/driverlib/bin/cpu.o
+ .debug_info    0x00000000      0x16f ../lib/driverlib/bin/cpu.o
+ .debug_abbrev  0x00000000       0xff ../lib/driverlib/bin/cpu.o
+ .debug_loclists
+                0x00000000       0x38 ../lib/driverlib/bin/cpu.o
+ .debug_aranges
+                0x00000000       0x48 ../lib/driverlib/bin/cpu.o
+ .debug_rnglists
+                0x00000000       0x31 ../lib/driverlib/bin/cpu.o
+ .debug_line    0x00000000      0x184 ../lib/driverlib/bin/cpu.o
+ .debug_str     0x00000000      0x1d8 ../lib/driverlib/bin/cpu.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/cpu.o
+ .debug_frame   0x00000000       0x70 ../lib/driverlib/bin/cpu.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/cpu.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/crc.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/crc.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/crc.o
+ .rodata.CRCConfigSet.str1.1
+                0x00000000        0x6 ../lib/driverlib/bin/crc.o
+ .text.CRCConfigSet
+                0x00000000       0x34 ../lib/driverlib/bin/crc.o
+ .text.CRCSeedSet
+                0x00000000       0x24 ../lib/driverlib/bin/crc.o
+ .text.CRCDataWrite
+                0x00000000       0x24 ../lib/driverlib/bin/crc.o
+ .text.CRCResultRead
+                0x00000000       0x2c ../lib/driverlib/bin/crc.o
+ .text.CRCDataProcess
+                0x00000000       0x54 ../lib/driverlib/bin/crc.o
+ .debug_info    0x00000000      0x2fc ../lib/driverlib/bin/crc.o
+ .debug_abbrev  0x00000000      0x106 ../lib/driverlib/bin/crc.o
+ .debug_loclists
+                0x00000000      0x24d ../lib/driverlib/bin/crc.o
+ .debug_aranges
+                0x00000000       0x40 ../lib/driverlib/bin/crc.o
+ .debug_rnglists
+                0x00000000       0x2b ../lib/driverlib/bin/crc.o
+ .debug_line    0x00000000      0x2b2 ../lib/driverlib/bin/crc.o
+ .debug_str     0x00000000      0x243 ../lib/driverlib/bin/crc.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/crc.o
+ .debug_frame   0x00000000       0xac ../lib/driverlib/bin/crc.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/crc.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/des.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/des.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/des.o
+ .rodata.DESReset.str1.1
+                0x00000000        0x6 ../lib/driverlib/bin/des.o
+ .text.DESReset
+                0x00000000       0x2c ../lib/driverlib/bin/des.o
+ .text.DESConfigSet
+                0x00000000       0x28 ../lib/driverlib/bin/des.o
+ .text.DESKeySet
+                0x00000000       0x3c ../lib/driverlib/bin/des.o
+ .text.DESIVSet
+                0x00000000       0x34 ../lib/driverlib/bin/des.o
+ .text.DESLengthSet
+                0x00000000       0x20 ../lib/driverlib/bin/des.o
+ .text.DESDataReadNonBlocking
+                0x00000000       0x34 ../lib/driverlib/bin/des.o
+ .text.DESDataRead
+                0x00000000       0x30 ../lib/driverlib/bin/des.o
+ .text.DESDataWriteNonBlocking
+                0x00000000       0x34 ../lib/driverlib/bin/des.o
+ .text.DESDataWrite
+                0x00000000       0x30 ../lib/driverlib/bin/des.o
+ .text.DESDataProcess
+                0x00000000       0x70 ../lib/driverlib/bin/des.o
+ .text.DESIntStatus
+                0x00000000       0x3c ../lib/driverlib/bin/des.o
+ .text.DESIntEnable
+                0x00000000       0x4c ../lib/driverlib/bin/des.o
+ .text.DESIntDisable
+                0x00000000       0x50 ../lib/driverlib/bin/des.o
+ .text.DESIntClear
+                0x00000000       0x3c ../lib/driverlib/bin/des.o
+ .text.DESIntRegister
+                0x00000000       0x30 ../lib/driverlib/bin/des.o
+ .text.DESIntUnregister
+                0x00000000       0x2c ../lib/driverlib/bin/des.o
+ .text.DESDMAEnable
+                0x00000000       0x38 ../lib/driverlib/bin/des.o
+ .text.DESDMADisable
+                0x00000000       0x38 ../lib/driverlib/bin/des.o
+ .debug_info    0x00000000      0x941 ../lib/driverlib/bin/des.o
+ .debug_abbrev  0x00000000      0x1b5 ../lib/driverlib/bin/des.o
+ .debug_loclists
+                0x00000000      0x541 ../lib/driverlib/bin/des.o
+ .debug_aranges
+                0x00000000       0xa8 ../lib/driverlib/bin/des.o
+ .debug_rnglists
+                0x00000000       0x79 ../lib/driverlib/bin/des.o
+ .debug_line    0x00000000      0x7dd ../lib/driverlib/bin/des.o
+ .debug_str     0x00000000      0x352 ../lib/driverlib/bin/des.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/des.o
+ .debug_frame   0x00000000      0x20c ../lib/driverlib/bin/des.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/des.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/eeprom.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/eeprom.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/eeprom.o
+ .text._EEPROMWaitForDone
+                0x00000000       0x10 ../lib/driverlib/bin/eeprom.o
+ .text._EEPROMSectorMaskSet
+                0x00000000       0x44 ../lib/driverlib/bin/eeprom.o
+ .text._EEPROMSectorMaskClear
+                0x00000000       0x3c ../lib/driverlib/bin/eeprom.o
+ .text.EEPROMInit
+                0x00000000       0x44 ../lib/driverlib/bin/eeprom.o
+ .text.EEPROMSizeGet
+                0x00000000       0x10 ../lib/driverlib/bin/eeprom.o
+ .text.EEPROMBlockCountGet
+                0x00000000       0x10 ../lib/driverlib/bin/eeprom.o
+ .rodata.EEPROMRead.str1.1
+                0x00000000        0x9 ../lib/driverlib/bin/eeprom.o
+ .text.EEPROMRead
+                0x00000000       0x90 ../lib/driverlib/bin/eeprom.o
+ .text.EEPROMProgram
+                0x00000000      0x118 ../lib/driverlib/bin/eeprom.o
+ .text.EEPROMProgramNonBlocking
+                0x00000000       0x6c ../lib/driverlib/bin/eeprom.o
+ .text.EEPROMMassErase
+                0x00000000       0x54 ../lib/driverlib/bin/eeprom.o
+ .text.EEPROMBlockProtectGet
+                0x00000000       0x28 ../lib/driverlib/bin/eeprom.o
+ .text.EEPROMBlockProtectSet
+                0x00000000       0x34 ../lib/driverlib/bin/eeprom.o
+ .text.EEPROMBlockPasswordSet
+                0x00000000       0x64 ../lib/driverlib/bin/eeprom.o
+ .text.EEPROMBlockLock
+                0x00000000       0x30 ../lib/driverlib/bin/eeprom.o
+ .text.EEPROMBlockUnlock
+                0x00000000       0x64 ../lib/driverlib/bin/eeprom.o
+ .text.EEPROMBlockHide
+                0x00000000       0x38 ../lib/driverlib/bin/eeprom.o
+ .text.EEPROMIntEnable
+                0x00000000       0x30 ../lib/driverlib/bin/eeprom.o
+ .text.EEPROMIntDisable
+                0x00000000       0x30 ../lib/driverlib/bin/eeprom.o
+ .text.EEPROMIntStatus
+                0x00000000       0x20 ../lib/driverlib/bin/eeprom.o
+ .text.EEPROMIntClear
+                0x00000000       0x30 ../lib/driverlib/bin/eeprom.o
+ .text.EEPROMStatusGet
+                0x00000000        0xc ../lib/driverlib/bin/eeprom.o
+ .debug_info    0x00000000      0x931 ../lib/driverlib/bin/eeprom.o
+ .debug_abbrev  0x00000000      0x1e1 ../lib/driverlib/bin/eeprom.o
+ .debug_loclists
+                0x00000000      0x3c8 ../lib/driverlib/bin/eeprom.o
+ .debug_aranges
+                0x00000000       0xc0 ../lib/driverlib/bin/eeprom.o
+ .debug_rnglists
+                0x00000000       0x8d ../lib/driverlib/bin/eeprom.o
+ .debug_line    0x00000000      0x8ee ../lib/driverlib/bin/eeprom.o
+ .debug_str     0x00000000      0x3ac ../lib/driverlib/bin/eeprom.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/eeprom.o
+ .debug_frame   0x00000000      0x228 ../lib/driverlib/bin/eeprom.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/eeprom.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/emac.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/emac.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/emac.o
+ .rodata.EMACInit.str1.1
+                0x00000000        0x7 ../lib/driverlib/bin/emac.o
+ .text.EMACInit
+                0x00000000      0x108 ../lib/driverlib/bin/emac.o
+ .text.EMACReset
+                0x00000000       0x18 ../lib/driverlib/bin/emac.o
+ .text.EMACPHYConfigSet
+                0x00000000       0x64 ../lib/driverlib/bin/emac.o
+ .text.EMACConfigSet
+                0x00000000       0x6c ../lib/driverlib/bin/emac.o
+ .text.EMACConfigGet
+                0x00000000       0x68 ../lib/driverlib/bin/emac.o
+ .text.EMACAddrSet
+                0x00000000       0x48 ../lib/driverlib/bin/emac.o
+ .text.EMACAddrGet
+                0x00000000       0x4c ../lib/driverlib/bin/emac.o
+ .text.EMACNumAddrGet
+                0x00000000        0x4 ../lib/driverlib/bin/emac.o
+ .text.EMACAddrFilterSet
+                0x00000000       0x54 ../lib/driverlib/bin/emac.o
+ .text.EMACAddrFilterGet
+                0x00000000       0x30 ../lib/driverlib/bin/emac.o
+ .text.EMACFrameFilterSet
+                0x00000000       0x28 ../lib/driverlib/bin/emac.o
+ .text.EMACFrameFilterGet
+                0x00000000        0xc ../lib/driverlib/bin/emac.o
+ .text.EMACHashFilterSet
+                0x00000000        0x6 ../lib/driverlib/bin/emac.o
+ .text.EMACHashFilterGet
+                0x00000000       0x30 ../lib/driverlib/bin/emac.o
+ .text.EMACHashFilterBitCalculate
+                0x00000000       0x38 ../lib/driverlib/bin/emac.o
+ .text.EMACRxWatchdogTimerSet
+                0x00000000        0x6 ../lib/driverlib/bin/emac.o
+ .text.EMACStatusGet
+                0x00000000        0x4 ../lib/driverlib/bin/emac.o
+ .text.EMACTxDMAPollDemand
+                0x00000000        0x8 ../lib/driverlib/bin/emac.o
+ .text.EMACRxDMAPollDemand
+                0x00000000        0x8 ../lib/driverlib/bin/emac.o
+ .text.EMACRxDMADescriptorListSet
+                0x00000000       0x28 ../lib/driverlib/bin/emac.o
+ .text.EMACRxDMADescriptorListGet
+                0x00000000        0x6 ../lib/driverlib/bin/emac.o
+ .text.EMACRxDMACurrentDescriptorGet
+                0x00000000        0x6 ../lib/driverlib/bin/emac.o
+ .text.EMACRxDMACurrentBufferGet
+                0x00000000        0x6 ../lib/driverlib/bin/emac.o
+ .text.EMACTxDMADescriptorListSet
+                0x00000000       0x28 ../lib/driverlib/bin/emac.o
+ .text.EMACTxDMADescriptorListGet
+                0x00000000        0x6 ../lib/driverlib/bin/emac.o
+ .text.EMACTxDMACurrentDescriptorGet
+                0x00000000        0x6 ../lib/driverlib/bin/emac.o
+ .text.EMACTxDMACurrentBufferGet
+                0x00000000        0x6 ../lib/driverlib/bin/emac.o
+ .text.EMACDMAStateGet
+                0x00000000       0x16 ../lib/driverlib/bin/emac.o
+ .text.EMACTxFlush
+                0x00000000       0x1e ../lib/driverlib/bin/emac.o
+ .text.EMACTxEnable
+                0x00000000       0x16 ../lib/driverlib/bin/emac.o
+ .text.EMACTxDisable
+                0x00000000       0x16 ../lib/driverlib/bin/emac.o
+ .text.EMACRxEnable
+                0x00000000       0x16 ../lib/driverlib/bin/emac.o
+ .text.EMACRxDisable
+                0x00000000       0x16 ../lib/driverlib/bin/emac.o
+ .text.EMACIntRegister
+                0x00000000       0x28 ../lib/driverlib/bin/emac.o
+ .text.EMACIntUnregister
+                0x00000000       0x12 ../lib/driverlib/bin/emac.o
+ .text.EMACIntEnable
+                0x00000000       0x60 ../lib/driverlib/bin/emac.o
+ .text.EMACIntDisable
+                0x00000000       0x6c ../lib/driverlib/bin/emac.o
+ .text.EMACIntStatus
+                0x00000000       0x44 ../lib/driverlib/bin/emac.o
+ .text.EMACIntClear
+                0x00000000       0x58 ../lib/driverlib/bin/emac.o
+ .text.EMACPHYWrite
+                0x00000000       0x58 ../lib/driverlib/bin/emac.o
+ .text.EMACPHYRead
+                0x00000000       0x58 ../lib/driverlib/bin/emac.o
+ .text.EMACPHYExtendedRead
+                0x00000000       0x64 ../lib/driverlib/bin/emac.o
+ .text.EMACPHYExtendedWrite
+                0x00000000       0x68 ../lib/driverlib/bin/emac.o
+ .text.EMACPHYPowerOff
+                0x00000000       0x24 ../lib/driverlib/bin/emac.o
+ .text.EMACPHYPowerOn
+                0x00000000       0x24 ../lib/driverlib/bin/emac.o
+ .text.EMACTimestampConfigSet
+                0x00000000       0x38 ../lib/driverlib/bin/emac.o
+ .text.EMACTimestampConfigGet
+                0x00000000       0x38 ../lib/driverlib/bin/emac.o
+ .text.EMACTimestampEnable
+                0x00000000       0x40 ../lib/driverlib/bin/emac.o
+ .text.EMACTimestampDisable
+                0x00000000       0x2c ../lib/driverlib/bin/emac.o
+ .text.EMACTimestampSysTimeSet
+                0x00000000       0x40 ../lib/driverlib/bin/emac.o
+ .text.EMACTimestampSysTimeGet
+                0x00000000       0x50 ../lib/driverlib/bin/emac.o
+ .text.EMACTimestampSysTimeUpdate
+                0x00000000       0x48 ../lib/driverlib/bin/emac.o
+ .text.EMACTimestampAddendSet
+                0x00000000       0x38 ../lib/driverlib/bin/emac.o
+ .text.EMACTimestampTargetSet
+                0x00000000       0x34 ../lib/driverlib/bin/emac.o
+ .text.EMACTimestampTargetIntEnable
+                0x00000000       0x2c ../lib/driverlib/bin/emac.o
+ .text.EMACTimestampTargetIntDisable
+                0x00000000       0x2c ../lib/driverlib/bin/emac.o
+ .text.EMACTimestampIntStatus
+                0x00000000       0x24 ../lib/driverlib/bin/emac.o
+ .text.EMACTimestampPPSSimpleModeSet
+                0x00000000       0x54 ../lib/driverlib/bin/emac.o
+ .text.EMACTimestampPPSCommandModeSet
+                0x00000000       0x40 ../lib/driverlib/bin/emac.o
+ .text.EMACTimestampPPSCommand
+                0x00000000       0x30 ../lib/driverlib/bin/emac.o
+ .text.EMACTimestampPPSPeriodSet
+                0x00000000       0x2c ../lib/driverlib/bin/emac.o
+ .text.EMACVLANRxConfigSet
+                0x00000000       0x28 ../lib/driverlib/bin/emac.o
+ .text.EMACVLANRxConfigGet
+                0x00000000       0x34 ../lib/driverlib/bin/emac.o
+ .text.EMACVLANTxConfigSet
+                0x00000000       0x28 ../lib/driverlib/bin/emac.o
+ .text.EMACVLANTxConfigGet
+                0x00000000       0x38 ../lib/driverlib/bin/emac.o
+ .text.EMACVLANHashFilterBitCalculate
+                0x00000000       0x30 ../lib/driverlib/bin/emac.o
+ .text.EMACVLANHashFilterSet
+                0x00000000       0x24 ../lib/driverlib/bin/emac.o
+ .text.EMACVLANHashFilterGet
+                0x00000000       0x24 ../lib/driverlib/bin/emac.o
+ .text.EMACRemoteWakeUpFrameFilterSet
+                0x00000000       0x44 ../lib/driverlib/bin/emac.o
+ .text.EMACRemoteWakeUpFrameFilterGet
+                0x00000000       0x44 ../lib/driverlib/bin/emac.o
+ .text.EMACPowerManagementControlSet
+                0x00000000       0x30 ../lib/driverlib/bin/emac.o
+ .text.EMACPowerManagementControlGet
+                0x00000000       0x28 ../lib/driverlib/bin/emac.o
+ .text.EMACPowerManagementStatusGet
+                0x00000000       0x24 ../lib/driverlib/bin/emac.o
+ .text.EMACWoLEnter
+                0x00000000       0x50 ../lib/driverlib/bin/emac.o
+ .text.EMACLPIConfig
+                0x00000000       0x40 ../lib/driverlib/bin/emac.o
+ .text.EMACLPIEnter
+                0x00000000       0x28 ../lib/driverlib/bin/emac.o
+ .text.EMACLPIStatus
+                0x00000000       0x24 ../lib/driverlib/bin/emac.o
+ .text.EMACLPILinkSet
+                0x00000000       0x28 ../lib/driverlib/bin/emac.o
+ .text.EMACLPILinkClear
+                0x00000000       0x28 ../lib/driverlib/bin/emac.o
+ .text.EMACPHYMMDWrite
+                0x00000000       0x5c ../lib/driverlib/bin/emac.o
+ .text.EMACPHYMMDRead
+                0x00000000       0x54 ../lib/driverlib/bin/emac.o
+ .rodata.g_pi16MIIClockDiv
+                0x00000000       0x18 ../lib/driverlib/bin/emac.o
+ .debug_info    0x00000000     0x2591 ../lib/driverlib/bin/emac.o
+ .debug_abbrev  0x00000000      0x21e ../lib/driverlib/bin/emac.o
+ .debug_loclists
+                0x00000000     0x16fa ../lib/driverlib/bin/emac.o
+ .debug_aranges
+                0x00000000      0x2a0 ../lib/driverlib/bin/emac.o
+ .debug_rnglists
+                0x00000000      0x1f4 ../lib/driverlib/bin/emac.o
+ .debug_line    0x00000000     0x1a8d ../lib/driverlib/bin/emac.o
+ .debug_str     0x00000000      0xc43 ../lib/driverlib/bin/emac.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/emac.o
+ .debug_frame   0x00000000      0x818 ../lib/driverlib/bin/emac.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/emac.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/epi.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/epi.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/epi.o
+ .text.EPIWorkaroundWordWrite
+                0x00000000       0x12 ../lib/driverlib/bin/epi.o
+ .text.EPIWorkaroundWordRead
+                0x00000000       0x16 ../lib/driverlib/bin/epi.o
+ .text.EPIWorkaroundHWordWrite
+                0x00000000       0x12 ../lib/driverlib/bin/epi.o
+ .text.EPIWorkaroundHWordRead
+                0x00000000        0xa ../lib/driverlib/bin/epi.o
+ .text.EPIWorkaroundByteWrite
+                0x00000000       0x12 ../lib/driverlib/bin/epi.o
+ .text.EPIWorkaroundByteRead
+                0x00000000        0xa ../lib/driverlib/bin/epi.o
+ .rodata.EPIModeSet.str1.1
+                0x00000000        0x6 ../lib/driverlib/bin/epi.o
+ .text.EPIModeSet
+                0x00000000       0x38 ../lib/driverlib/bin/epi.o
+ .text.EPIDividerSet
+                0x00000000       0x24 ../lib/driverlib/bin/epi.o
+ .text.EPIDividerCSSet
+                0x00000000       0x64 ../lib/driverlib/bin/epi.o
+ .text.EPIDMATxCount
+                0x00000000       0x38 ../lib/driverlib/bin/epi.o
+ .text.EPIConfigSDRAMSet
+                0x00000000       0x3c ../lib/driverlib/bin/epi.o
+ .text.EPIConfigHB8Set
+                0x00000000       0x44 ../lib/driverlib/bin/epi.o
+ .text.EPIConfigHB16Set
+                0x00000000       0x44 ../lib/driverlib/bin/epi.o
+ .text.EPIConfigHB8CSSet
+                0x00000000       0x50 ../lib/driverlib/bin/epi.o
+ .text.EPIConfigHB16CSSet
+                0x00000000       0x50 ../lib/driverlib/bin/epi.o
+ .text.EPIConfigHB8TimingSet
+                0x00000000       0x38 ../lib/driverlib/bin/epi.o
+ .text.EPIConfigHB16TimingSet
+                0x00000000       0x38 ../lib/driverlib/bin/epi.o
+ .text.EPIPSRAMConfigRegSet
+                0x00000000       0x50 ../lib/driverlib/bin/epi.o
+ .text.EPIPSRAMConfigRegRead
+                0x00000000       0x48 ../lib/driverlib/bin/epi.o
+ .text.EPIPSRAMConfigRegGetNonBlocking
+                0x00000000       0x54 ../lib/driverlib/bin/epi.o
+ .text.EPIPSRAMConfigRegGet
+                0x00000000       0x4c ../lib/driverlib/bin/epi.o
+ .text.EPIConfigGPModeSet
+                0x00000000       0x4c ../lib/driverlib/bin/epi.o
+ .text.EPIAddressMapSet
+                0x00000000       0x34 ../lib/driverlib/bin/epi.o
+ .text.EPINonBlockingReadConfigure
+                0x00000000       0x58 ../lib/driverlib/bin/epi.o
+ .text.EPINonBlockingReadStart
+                0x00000000       0x48 ../lib/driverlib/bin/epi.o
+ .text.EPINonBlockingReadStop
+                0x00000000       0x38 ../lib/driverlib/bin/epi.o
+ .text.EPINonBlockingReadCount
+                0x00000000       0x34 ../lib/driverlib/bin/epi.o
+ .text.EPINonBlockingReadAvail
+                0x00000000       0x20 ../lib/driverlib/bin/epi.o
+ .text.EPINonBlockingReadGet32
+                0x00000000       0x54 ../lib/driverlib/bin/epi.o
+ .text.EPINonBlockingReadGet16
+                0x00000000       0x54 ../lib/driverlib/bin/epi.o
+ .text.EPINonBlockingReadGet8
+                0x00000000       0x50 ../lib/driverlib/bin/epi.o
+ .text.EPIFIFOConfig
+                0x00000000       0x38 ../lib/driverlib/bin/epi.o
+ .text.EPIWriteFIFOCountGet
+                0x00000000       0x24 ../lib/driverlib/bin/epi.o
+ .text.EPIIntEnable
+                0x00000000       0x38 ../lib/driverlib/bin/epi.o
+ .text.EPIIntDisable
+                0x00000000       0x3c ../lib/driverlib/bin/epi.o
+ .text.EPIIntStatus
+                0x00000000       0x2c ../lib/driverlib/bin/epi.o
+ .text.EPIIntErrorStatus
+                0x00000000       0x24 ../lib/driverlib/bin/epi.o
+ .text.EPIIntErrorClear
+                0x00000000       0x34 ../lib/driverlib/bin/epi.o
+ .text.EPIIntRegister
+                0x00000000       0x7c ../lib/driverlib/bin/epi.o
+ .text.EPIIntUnregister
+                0x00000000       0x60 ../lib/driverlib/bin/epi.o
+ .debug_info    0x00000000     0x1742 ../lib/driverlib/bin/epi.o
+ .debug_abbrev  0x00000000      0x1d0 ../lib/driverlib/bin/epi.o
+ .debug_loclists
+                0x00000000      0xf99 ../lib/driverlib/bin/epi.o
+ .debug_aranges
+                0x00000000      0x158 ../lib/driverlib/bin/epi.o
+ .debug_rnglists
+                0x00000000      0x11e ../lib/driverlib/bin/epi.o
+ .debug_line    0x00000000      0xfc8 ../lib/driverlib/bin/epi.o
+ .debug_str     0x00000000      0x682 ../lib/driverlib/bin/epi.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/epi.o
+ .debug_frame   0x00000000      0x454 ../lib/driverlib/bin/epi.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/epi.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/flash.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/flash.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/flash.o
+ .text.FlashErase
+                0x00000000       0x34 ../lib/driverlib/bin/flash.o
+ .text.FlashProgram
+                0x00000000       0x64 ../lib/driverlib/bin/flash.o
+ .text.FlashProtectGet
+                0x00000000       0x44 ../lib/driverlib/bin/flash.o
+ .text.FlashProtectSet
+                0x00000000       0x64 ../lib/driverlib/bin/flash.o
+ .text.FlashProtectSave
+                0x00000000       0x24 ../lib/driverlib/bin/flash.o
+ .text.FlashUserGet
+                0x00000000       0x18 ../lib/driverlib/bin/flash.o
+ .text.FlashUserSet
+                0x00000000       0x14 ../lib/driverlib/bin/flash.o
+ .text.FlashAllUserRegisterGet
+                0x00000000       0x24 ../lib/driverlib/bin/flash.o
+ .text.FlashAllUserRegisterSet
+                0x00000000       0x1c ../lib/driverlib/bin/flash.o
+ .text.FlashUserSave
+                0x00000000       0x30 ../lib/driverlib/bin/flash.o
+ .text.FlashAllUserRegisterSave
+                0x00000000       0x2c ../lib/driverlib/bin/flash.o
+ .text.FlashIntRegister
+                0x00000000       0x14 ../lib/driverlib/bin/flash.o
+ .text.FlashIntUnregister
+                0x00000000       0x12 ../lib/driverlib/bin/flash.o
+ .text.FlashIntEnable
+                0x00000000       0x10 ../lib/driverlib/bin/flash.o
+ .text.FlashIntDisable
+                0x00000000       0x10 ../lib/driverlib/bin/flash.o
+ .text.FlashIntStatus
+                0x00000000       0x10 ../lib/driverlib/bin/flash.o
+ .text.FlashIntClear
+                0x00000000        0xc ../lib/driverlib/bin/flash.o
+ .rodata.g_pui32FMPRERegs
+                0x00000000       0x40 ../lib/driverlib/bin/flash.o
+ .rodata.g_pui32FMPPERegs
+                0x00000000       0x40 ../lib/driverlib/bin/flash.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/fpu.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/fpu.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/fpu.o
+ .text.FPUEnable
+                0x00000000       0x12 ../lib/driverlib/bin/fpu.o
+ .text.FPUDisable
+                0x00000000       0x12 ../lib/driverlib/bin/fpu.o
+ .text.FPUStackingEnable
+                0x00000000       0x16 ../lib/driverlib/bin/fpu.o
+ .text.FPULazyStackingEnable
+                0x00000000       0x12 ../lib/driverlib/bin/fpu.o
+ .text.FPUStackingDisable
+                0x00000000       0x12 ../lib/driverlib/bin/fpu.o
+ .text.FPUHalfPrecisionModeSet
+                0x00000000       0x14 ../lib/driverlib/bin/fpu.o
+ .text.FPUNaNModeSet
+                0x00000000       0x14 ../lib/driverlib/bin/fpu.o
+ .text.FPUFlushToZeroModeSet
+                0x00000000       0x14 ../lib/driverlib/bin/fpu.o
+ .text.FPURoundingModeSet
+                0x00000000       0x14 ../lib/driverlib/bin/fpu.o
+ .debug_info    0x00000000      0x162 ../lib/driverlib/bin/fpu.o
+ .debug_abbrev  0x00000000       0xaf ../lib/driverlib/bin/fpu.o
+ .debug_aranges
+                0x00000000       0x60 ../lib/driverlib/bin/fpu.o
+ .debug_rnglists
+                0x00000000       0x43 ../lib/driverlib/bin/fpu.o
+ .debug_line    0x00000000      0x21d ../lib/driverlib/bin/fpu.o
+ .debug_str     0x00000000      0x229 ../lib/driverlib/bin/fpu.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/fpu.o
+ .debug_frame   0x00000000       0xa0 ../lib/driverlib/bin/fpu.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/fpu.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/gpio.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/gpio.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/gpio.o
+ .text._GPIOIntNumberGet
+                0x00000000       0x58 ../lib/driverlib/bin/gpio.o
+ .text.GPIODirModeGet
+                0x00000000       0x50 ../lib/driverlib/bin/gpio.o
+ .text.GPIOIntTypeSet
+                0x00000000       0xa4 ../lib/driverlib/bin/gpio.o
+ .text.GPIOIntTypeGet
+                0x00000000       0x6c ../lib/driverlib/bin/gpio.o
+ .text.GPIOPadConfigGet
+                0x00000000      0x118 ../lib/driverlib/bin/gpio.o
+ .text.GPIOIntEnable
+                0x00000000       0x28 ../lib/driverlib/bin/gpio.o
+ .text.GPIOIntDisable
+                0x00000000       0x28 ../lib/driverlib/bin/gpio.o
+ .text.GPIOIntStatus
+                0x00000000       0x28 ../lib/driverlib/bin/gpio.o
+ .text.GPIOIntClear
+                0x00000000       0x20 ../lib/driverlib/bin/gpio.o
+ .text.GPIOIntRegister
+                0x00000000       0x40 ../lib/driverlib/bin/gpio.o
+ .text.GPIOIntUnregister
+                0x00000000       0x3c ../lib/driverlib/bin/gpio.o
+ .text.GPIOIntRegisterPin
+                0x00000000       0x60 ../lib/driverlib/bin/gpio.o
+ .text.GPIOIntUnregisterPin
+                0x00000000       0x50 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinRead
+                0x00000000       0x20 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinWrite
+                0x00000000       0x24 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeADC
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeCAN
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeComparator
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeComparatorOutput
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeDIVSCLK
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeEPI
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeEthernetLED
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeEthernetMII
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeGPIOInput
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeGPIOOutput
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeGPIOOutputOD
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeHibernateRTCCLK
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeI2C
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeI2CSCL
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeLCD
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeOneWire
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypePWM
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeQEI
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeSSI
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeTimer
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeTrace
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeUSBAnalog
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeUSBDigital
+                0x00000000       0x34 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeWakeHigh
+                0x00000000       0x38 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinTypeWakeLow
+                0x00000000       0x38 ../lib/driverlib/bin/gpio.o
+ .text.GPIOPinWakeStatus
+                0x00000000        0x6 ../lib/driverlib/bin/gpio.o
+ .text.GPIODMATriggerEnable
+                0x00000000       0x28 ../lib/driverlib/bin/gpio.o
+ .text.GPIODMATriggerDisable
+                0x00000000       0x28 ../lib/driverlib/bin/gpio.o
+ .text.GPIOADCTriggerEnable
+                0x00000000       0x28 ../lib/driverlib/bin/gpio.o
+ .text.GPIOADCTriggerDisable
+                0x00000000       0x28 ../lib/driverlib/bin/gpio.o
+ .text.GPIOUnlockPin
+                0x00000000       0x30 ../lib/driverlib/bin/gpio.o
+ .rodata.g_ppui32GPIOIntMapSnowflake
+                0x00000000       0xd8 ../lib/driverlib/bin/gpio.o
+ .rodata.g_ppui32GPIOIntMapBlizzard
+                0x00000000       0xc0 ../lib/driverlib/bin/gpio.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/hibernate.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/hibernate.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/hibernate.o
+ .text._HibernateWriteComplete
+                0x00000000       0x10 ../lib/driverlib/bin/hibernate.o
+ .rodata._HibernateCalendarSet.str1.1
+                0x00000000        0xc ../lib/driverlib/bin/hibernate.o
+ .text._HibernateCalendarSet
+                0x00000000       0xdc ../lib/driverlib/bin/hibernate.o
+ .text.HibernateEnableExpClk
+                0x00000000       0x14 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateDisable
+                0x00000000       0x14 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateClockConfig
+                0x00000000       0x5c ../lib/driverlib/bin/hibernate.o
+ .text.HibernateRTCEnable
+                0x00000000       0x14 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateRTCDisable
+                0x00000000       0x14 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateBatCheckStart
+                0x00000000       0x14 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateBatCheckDone
+                0x00000000       0x10 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateWakeSet
+                0x00000000       0x7c ../lib/driverlib/bin/hibernate.o
+ .text.HibernateWakeGet
+                0x00000000       0x3c ../lib/driverlib/bin/hibernate.o
+ .text.HibernateLowBatSet
+                0x00000000       0x34 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateLowBatGet
+                0x00000000       0x18 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateRTCSet
+                0x00000000       0x2c ../lib/driverlib/bin/hibernate.o
+ .text.HibernateRTCGet
+                0x00000000        0xc ../lib/driverlib/bin/hibernate.o
+ .text.HibernateRTCMatchSet
+                0x00000000       0x24 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateRTCMatchGet
+                0x00000000       0x1c ../lib/driverlib/bin/hibernate.o
+ .text.HibernateRTCSSMatchSet
+                0x00000000       0x28 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateRTCSSMatchGet
+                0x00000000       0x20 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateRTCSSGet
+                0x00000000       0x10 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateRTCTrimSet
+                0x00000000       0x28 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateRTCTrimGet
+                0x00000000        0xc ../lib/driverlib/bin/hibernate.o
+ .text.HibernateDataSet
+                0x00000000       0x44 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateDataGet
+                0x00000000       0x40 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateRequest
+                0x00000000       0x14 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateIntEnable
+                0x00000000       0x2c ../lib/driverlib/bin/hibernate.o
+ .text.HibernateIntDisable
+                0x00000000       0x30 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateIntRegister
+                0x00000000       0x34 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateIntUnregister
+                0x00000000       0x30 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateIntStatus
+                0x00000000       0x10 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateIntClear
+                0x00000000       0x2c ../lib/driverlib/bin/hibernate.o
+ .text.HibernateIsActive
+                0x00000000       0x10 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateGPIORetentionEnable
+                0x00000000       0x18 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateGPIORetentionDisable
+                0x00000000       0x18 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateGPIORetentionGet
+                0x00000000       0x18 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateCounterMode
+                0x00000000       0x10 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateCalendarSet
+                0x00000000        0xc ../lib/driverlib/bin/hibernate.o
+ .text.HibernateCalendarGet
+                0x00000000       0x84 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateCalendarMatchSet
+                0x00000000        0xc ../lib/driverlib/bin/hibernate.o
+ .text.HibernateCalendarMatchGet
+                0x00000000       0x78 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateTamperEventsConfig
+                0x00000000       0x38 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateTamperEnable
+                0x00000000       0x34 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateTamperDisable
+                0x00000000       0x34 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateTamperIOEnable
+                0x00000000       0x58 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateTamperIODisable
+                0x00000000       0x50 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateTamperEventsClear
+                0x00000000       0x34 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateTamperEventsClearNoLock
+                0x00000000       0x1c ../lib/driverlib/bin/hibernate.o
+ .text.HibernateTamperUnLock
+                0x00000000       0x14 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateTamperLock
+                0x00000000       0x1c ../lib/driverlib/bin/hibernate.o
+ .text.HibernateTamperStatusGet
+                0x00000000       0x38 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateTamperEventsGet
+                0x00000000       0x7c ../lib/driverlib/bin/hibernate.o
+ .text.HibernateTamperExtOscRecover
+                0x00000000       0x34 ../lib/driverlib/bin/hibernate.o
+ .text.HibernateTamperExtOscValid
+                0x00000000       0x12 ../lib/driverlib/bin/hibernate.o
+ .debug_info    0x00000000      0xfbe ../lib/driverlib/bin/hibernate.o
+ .debug_abbrev  0x00000000      0x235 ../lib/driverlib/bin/hibernate.o
+ .debug_loclists
+                0x00000000      0x63f ../lib/driverlib/bin/hibernate.o
+ .debug_aranges
+                0x00000000      0x1c0 ../lib/driverlib/bin/hibernate.o
+ .debug_rnglists
+                0x00000000      0x165 ../lib/driverlib/bin/hibernate.o
+ .debug_line    0x00000000      0xfe4 ../lib/driverlib/bin/hibernate.o
+ .debug_str     0x00000000      0x7cb ../lib/driverlib/bin/hibernate.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/hibernate.o
+ .debug_frame   0x00000000      0x4cc ../lib/driverlib/bin/hibernate.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/hibernate.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/i2c.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/i2c.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/i2c.o
+ .text._I2CBaseValid
+                0x00000000       0x2c ../lib/driverlib/bin/i2c.o
+ .rodata._I2CIntNumberGet.str1.1
+                0x00000000        0x6 ../lib/driverlib/bin/i2c.o
+ .text._I2CIntNumberGet
+                0x00000000       0x58 ../lib/driverlib/bin/i2c.o
+ .text.I2CSlaveAddressSet
+                0x00000000       0x50 ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterEnable
+                0x00000000       0x24 ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterInitExpClk
+                0x00000000       0x68 ../lib/driverlib/bin/i2c.o
+ .text.I2CSlaveEnable
+                0x00000000       0x28 ../lib/driverlib/bin/i2c.o
+ .text.I2CSlaveInit
+                0x00000000       0x34 ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterDisable
+                0x00000000       0x24 ../lib/driverlib/bin/i2c.o
+ .text.I2CSlaveDisable
+                0x00000000       0x28 ../lib/driverlib/bin/i2c.o
+ .text.I2CIntRegister
+                0x00000000       0x40 ../lib/driverlib/bin/i2c.o
+ .text.I2CIntUnregister
+                0x00000000       0x3c ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterIntEnable
+                0x00000000       0x20 ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterIntEnableEx
+                0x00000000       0x24 ../lib/driverlib/bin/i2c.o
+ .text.I2CSlaveIntEnable
+                0x00000000       0x28 ../lib/driverlib/bin/i2c.o
+ .text.I2CSlaveIntEnableEx
+                0x00000000       0x28 ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterIntDisable
+                0x00000000       0x20 ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterIntDisableEx
+                0x00000000       0x24 ../lib/driverlib/bin/i2c.o
+ .text.I2CSlaveIntDisable
+                0x00000000       0x28 ../lib/driverlib/bin/i2c.o
+ .text.I2CSlaveIntDisableEx
+                0x00000000       0x28 ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterIntStatus
+                0x00000000       0x2c ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterIntStatusEx
+                0x00000000       0x24 ../lib/driverlib/bin/i2c.o
+ .text.I2CSlaveIntStatus
+                0x00000000       0x30 ../lib/driverlib/bin/i2c.o
+ .text.I2CSlaveIntStatusEx
+                0x00000000       0x28 ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterIntClear
+                0x00000000       0x20 ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterIntClearEx
+                0x00000000       0x20 ../lib/driverlib/bin/i2c.o
+ .text.I2CSlaveIntClear
+                0x00000000       0x20 ../lib/driverlib/bin/i2c.o
+ .text.I2CSlaveIntClearEx
+                0x00000000       0x20 ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterSlaveAddrSet
+                0x00000000       0x34 ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterLineStateGet
+                0x00000000       0x1c ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterBusy
+                0x00000000       0x20 ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterBusBusy
+                0x00000000       0x20 ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterControl
+                0x00000000       0x5c ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterErr
+                0x00000000       0x30 ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterDataPut
+                0x00000000       0x20 ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterDataGet
+                0x00000000       0x1c ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterTimeoutSet
+                0x00000000       0x20 ../lib/driverlib/bin/i2c.o
+ .text.I2CSlaveACKOverride
+                0x00000000       0x30 ../lib/driverlib/bin/i2c.o
+ .text.I2CSlaveACKValueSet
+                0x00000000       0x30 ../lib/driverlib/bin/i2c.o
+ .text.I2CSlaveStatus
+                0x00000000       0x20 ../lib/driverlib/bin/i2c.o
+ .text.I2CSlaveDataPut
+                0x00000000       0x20 ../lib/driverlib/bin/i2c.o
+ .text.I2CSlaveDataGet
+                0x00000000       0x20 ../lib/driverlib/bin/i2c.o
+ .text.I2CTxFIFOConfigSet
+                0x00000000       0x34 ../lib/driverlib/bin/i2c.o
+ .text.I2CTxFIFOFlush
+                0x00000000       0x28 ../lib/driverlib/bin/i2c.o
+ .text.I2CRxFIFOConfigSet
+                0x00000000       0x30 ../lib/driverlib/bin/i2c.o
+ .text.I2CRxFIFOFlush
+                0x00000000       0x28 ../lib/driverlib/bin/i2c.o
+ .text.I2CFIFOStatus
+                0x00000000       0x20 ../lib/driverlib/bin/i2c.o
+ .text.I2CFIFODataPut
+                0x00000000       0x28 ../lib/driverlib/bin/i2c.o
+ .text.I2CFIFODataPutNonBlocking
+                0x00000000       0x2c ../lib/driverlib/bin/i2c.o
+ .text.I2CFIFODataGet
+                0x00000000       0x28 ../lib/driverlib/bin/i2c.o
+ .text.I2CFIFODataGetNonBlocking
+                0x00000000       0x30 ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterBurstLengthSet
+                0x00000000       0x20 ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterBurstCountGet
+                0x00000000       0x1c ../lib/driverlib/bin/i2c.o
+ .text.I2CMasterGlitchFilterConfigSet
+                0x00000000       0x5c ../lib/driverlib/bin/i2c.o
+ .text.I2CSlaveFIFOEnable
+                0x00000000       0x24 ../lib/driverlib/bin/i2c.o
+ .text.I2CSlaveFIFODisable
+                0x00000000       0x20 ../lib/driverlib/bin/i2c.o
+ .text.I2CLoopbackEnable
+                0x00000000       0x24 ../lib/driverlib/bin/i2c.o
+ .rodata.g_ppui32I2CIntMapSnowflake
+                0x00000000       0x50 ../lib/driverlib/bin/i2c.o
+ .rodata.g_ppui32I2CIntMap
+                0x00000000       0x30 ../lib/driverlib/bin/i2c.o
+ .debug_info    0x00000000     0x19aa ../lib/driverlib/bin/i2c.o
+ .debug_abbrev  0x00000000      0x1ae ../lib/driverlib/bin/i2c.o
+ .debug_loclists
+                0x00000000      0xd04 ../lib/driverlib/bin/i2c.o
+ .debug_aranges
+                0x00000000      0x1d8 ../lib/driverlib/bin/i2c.o
+ .debug_rnglists
+                0x00000000      0x15d ../lib/driverlib/bin/i2c.o
+ .debug_line    0x00000000     0x1091 ../lib/driverlib/bin/i2c.o
+ .debug_str     0x00000000      0x72a ../lib/driverlib/bin/i2c.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/i2c.o
+ .debug_frame   0x00000000      0x5c8 ../lib/driverlib/bin/i2c.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/i2c.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/interrupt.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/interrupt.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/interrupt.o
+ .text._IntDefaultHandler
+                0x00000000        0x2 ../lib/driverlib/bin/interrupt.o
+ .text.IntMasterEnable
+                0x00000000        0xe ../lib/driverlib/bin/interrupt.o
+ .text.IntMasterDisable
+                0x00000000        0xe ../lib/driverlib/bin/interrupt.o
+ .rodata.IntRegister.str1.1
+                0x00000000        0xc ../lib/driverlib/bin/interrupt.o
+ .text.IntRegister
+                0x00000000       0x50 ../lib/driverlib/bin/interrupt.o
+ .text.IntUnregister
+                0x00000000       0x28 ../lib/driverlib/bin/interrupt.o
+ .text.IntPriorityGroupingSet
+                0x00000000       0x34 ../lib/driverlib/bin/interrupt.o
+ .text.IntPriorityGroupingGet
+                0x00000000       0x24 ../lib/driverlib/bin/interrupt.o
+ .text.IntPrioritySet
+                0x00000000       0x40 ../lib/driverlib/bin/interrupt.o
+ .text.IntPriorityGet
+                0x00000000       0x34 ../lib/driverlib/bin/interrupt.o
+ .text.IntEnable
+                0x00000000       0x80 ../lib/driverlib/bin/interrupt.o
+ .text.IntDisable
+                0x00000000       0x80 ../lib/driverlib/bin/interrupt.o
+ .text.IntIsEnabled
+                0x00000000       0x80 ../lib/driverlib/bin/interrupt.o
+ .text.IntPendSet
+                0x00000000       0x70 ../lib/driverlib/bin/interrupt.o
+ .text.IntPendClear
+                0x00000000       0x5c ../lib/driverlib/bin/interrupt.o
+ .text.IntPriorityMaskSet
+                0x00000000        0x4 ../lib/driverlib/bin/interrupt.o
+ .text.IntPriorityMaskGet
+                0x00000000        0x4 ../lib/driverlib/bin/interrupt.o
+ .text.IntTrigger
+                0x00000000       0x24 ../lib/driverlib/bin/interrupt.o
+ vtable         0x00000000      0x26c ../lib/driverlib/bin/interrupt.o
+ .rodata.g_pui32UnpendRegs
+                0x00000000       0x14 ../lib/driverlib/bin/interrupt.o
+ .rodata.g_pui32PendRegs
+                0x00000000       0x14 ../lib/driverlib/bin/interrupt.o
+ .rodata.g_pui32Dii16Regs
+                0x00000000       0x14 ../lib/driverlib/bin/interrupt.o
+ .rodata.g_pui32EnRegs
+                0x00000000       0x14 ../lib/driverlib/bin/interrupt.o
+ .rodata.g_pui32Regs
+                0x00000000       0x9c ../lib/driverlib/bin/interrupt.o
+ .rodata.g_pui32Priority
+                0x00000000       0x20 ../lib/driverlib/bin/interrupt.o
+ .debug_info    0x00000000      0x643 ../lib/driverlib/bin/interrupt.o
+ .debug_abbrev  0x00000000      0x18d ../lib/driverlib/bin/interrupt.o
+ .debug_loclists
+                0x00000000      0x3a3 ../lib/driverlib/bin/interrupt.o
+ .debug_aranges
+                0x00000000       0xa0 ../lib/driverlib/bin/interrupt.o
+ .debug_rnglists
+                0x00000000       0x76 ../lib/driverlib/bin/interrupt.o
+ .debug_line    0x00000000      0x709 ../lib/driverlib/bin/interrupt.o
+ .debug_str     0x00000000      0x3cb ../lib/driverlib/bin/interrupt.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/interrupt.o
+ .debug_frame   0x00000000      0x190 ../lib/driverlib/bin/interrupt.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/interrupt.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/lcd.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/lcd.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/lcd.o
+ .rodata.LCDModeSet.str1.1
+                0x00000000        0x6 ../lib/driverlib/bin/lcd.o
+ .text.LCDModeSet
+                0x00000000       0x88 ../lib/driverlib/bin/lcd.o
+ .text.LCDClockReset
+                0x00000000       0x3c ../lib/driverlib/bin/lcd.o
+ .text.LCDIDDConfigSet
+                0x00000000       0x30 ../lib/driverlib/bin/lcd.o
+ .text.LCDIDDTimingSet
+                0x00000000       0xe8 ../lib/driverlib/bin/lcd.o
+ .text.LCDIDDDMADisable
+                0x00000000       0x28 ../lib/driverlib/bin/lcd.o
+ .text.LCDIDDCommandWrite
+                0x00000000       0x3c ../lib/driverlib/bin/lcd.o
+ .text.LCDIDDDataWrite
+                0x00000000       0x3c ../lib/driverlib/bin/lcd.o
+ .text.LCDIDDIndexedWrite
+                0x00000000       0x48 ../lib/driverlib/bin/lcd.o
+ .text.LCDIDDStatusRead
+                0x00000000       0x3c ../lib/driverlib/bin/lcd.o
+ .text.LCDIDDDataRead
+                0x00000000       0x3c ../lib/driverlib/bin/lcd.o
+ .text.LCDIDDIndexedRead
+                0x00000000       0x48 ../lib/driverlib/bin/lcd.o
+ .text.LCDIDDDMAWrite
+                0x00000000       0x78 ../lib/driverlib/bin/lcd.o
+ .text.LCDRasterConfigSet
+                0x00000000       0x3c ../lib/driverlib/bin/lcd.o
+ .text.LCDRasterTimingSet
+                0x00000000      0x150 ../lib/driverlib/bin/lcd.o
+ .text.LCDRasterACBiasIntCountSet
+                0x00000000       0x38 ../lib/driverlib/bin/lcd.o
+ .text.LCDRasterEnable
+                0x00000000       0x30 ../lib/driverlib/bin/lcd.o
+ .text.LCDRasterEnabled
+                0x00000000       0x24 ../lib/driverlib/bin/lcd.o
+ .text.LCDRasterDisable
+                0x00000000       0x28 ../lib/driverlib/bin/lcd.o
+ .text.LCDRasterSubPanelConfigSet
+                0x00000000       0x70 ../lib/driverlib/bin/lcd.o
+ .text.LCDRasterSubPanelEnable
+                0x00000000       0x28 ../lib/driverlib/bin/lcd.o
+ .text.LCDRasterSubPanelDisable
+                0x00000000       0x28 ../lib/driverlib/bin/lcd.o
+ .text.LCDDMAConfigSet
+                0x00000000       0x38 ../lib/driverlib/bin/lcd.o
+ .text.LCDRasterPaletteSet
+                0x00000000       0xc8 ../lib/driverlib/bin/lcd.o
+ .text.LCDRasterFrameBufferSet
+                0x00000000       0x60 ../lib/driverlib/bin/lcd.o
+ .text.LCDIntEnable
+                0x00000000       0x38 ../lib/driverlib/bin/lcd.o
+ .text.LCDIntDisable
+                0x00000000       0x38 ../lib/driverlib/bin/lcd.o
+ .text.LCDIntStatus
+                0x00000000       0x28 ../lib/driverlib/bin/lcd.o
+ .text.LCDIntClear
+                0x00000000       0x38 ../lib/driverlib/bin/lcd.o
+ .text.LCDIntRegister
+                0x00000000       0x3c ../lib/driverlib/bin/lcd.o
+ .text.LCDIntUnregister
+                0x00000000       0x2c ../lib/driverlib/bin/lcd.o
+ .debug_info    0x00000000     0x1515 ../lib/driverlib/bin/lcd.o
+ .debug_abbrev  0x00000000      0x1c6 ../lib/driverlib/bin/lcd.o
+ .debug_loclists
+                0x00000000      0xa70 ../lib/driverlib/bin/lcd.o
+ .debug_aranges
+                0x00000000      0x108 ../lib/driverlib/bin/lcd.o
+ .debug_rnglists
+                0x00000000       0xc5 ../lib/driverlib/bin/lcd.o
+ .debug_line    0x00000000      0xe8e ../lib/driverlib/bin/lcd.o
+ .debug_str     0x00000000      0x678 ../lib/driverlib/bin/lcd.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/lcd.o
+ .debug_frame   0x00000000      0x368 ../lib/driverlib/bin/lcd.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/lcd.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/mpu.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/mpu.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/mpu.o
+ .rodata.MPUEnable.str1.1
+                0x00000000        0x6 ../lib/driverlib/bin/mpu.o
+ .text.MPUEnable
+                0x00000000       0x24 ../lib/driverlib/bin/mpu.o
+ .text.MPUDisable
+                0x00000000       0x12 ../lib/driverlib/bin/mpu.o
+ .text.MPURegionCountGet
+                0x00000000        0xe ../lib/driverlib/bin/mpu.o
+ .text.MPURegionEnable
+                0x00000000       0x2c ../lib/driverlib/bin/mpu.o
+ .text.MPURegionDisable
+                0x00000000       0x2c ../lib/driverlib/bin/mpu.o
+ .text.MPURegionSet
+                0x00000000       0x54 ../lib/driverlib/bin/mpu.o
+ .text.MPURegionGet
+                0x00000000       0x4c ../lib/driverlib/bin/mpu.o
+ .text.MPUIntRegister
+                0x00000000       0x28 ../lib/driverlib/bin/mpu.o
+ .text.MPUIntUnregister
+                0x00000000       0x12 ../lib/driverlib/bin/mpu.o
+ .debug_info    0x00000000      0x3be ../lib/driverlib/bin/mpu.o
+ .debug_abbrev  0x00000000      0x141 ../lib/driverlib/bin/mpu.o
+ .debug_loclists
+                0x00000000      0x174 ../lib/driverlib/bin/mpu.o
+ .debug_aranges
+                0x00000000       0x60 ../lib/driverlib/bin/mpu.o
+ .debug_rnglists
+                0x00000000       0x43 ../lib/driverlib/bin/mpu.o
+ .debug_line    0x00000000      0x33f ../lib/driverlib/bin/mpu.o
+ .debug_str     0x00000000      0x28d ../lib/driverlib/bin/mpu.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/mpu.o
+ .debug_frame   0x00000000       0xe8 ../lib/driverlib/bin/mpu.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/mpu.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/onewire.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/onewire.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/onewire.o
+ .rodata.OneWireInit.str1.1
+                0x00000000        0xa ../lib/driverlib/bin/onewire.o
+ .text.OneWireInit
+                0x00000000       0x20 ../lib/driverlib/bin/onewire.o
+ .text.OneWireBusReset
+                0x00000000       0x24 ../lib/driverlib/bin/onewire.o
+ .text.OneWireBusStatus
+                0x00000000       0x24 ../lib/driverlib/bin/onewire.o
+ .text.OneWireDataGet
+                0x00000000       0x34 ../lib/driverlib/bin/onewire.o
+ .text.OneWireDataGetNonBlocking
+                0x00000000       0x38 ../lib/driverlib/bin/onewire.o
+ .text.OneWireIntClear
+                0x00000000       0x34 ../lib/driverlib/bin/onewire.o
+ .text.OneWireIntDisable
+                0x00000000       0x3c ../lib/driverlib/bin/onewire.o
+ .text.OneWireIntEnable
+                0x00000000       0x38 ../lib/driverlib/bin/onewire.o
+ .text.OneWireIntStatus
+                0x00000000       0x2c ../lib/driverlib/bin/onewire.o
+ .text.OneWireIntRegister
+                0x00000000       0x7c ../lib/driverlib/bin/onewire.o
+ .text.OneWireIntUnregister
+                0x00000000       0x60 ../lib/driverlib/bin/onewire.o
+ .text.OneWireDMADisable
+                0x00000000       0x48 ../lib/driverlib/bin/onewire.o
+ .text.OneWireDMAEnable
+                0x00000000       0x74 ../lib/driverlib/bin/onewire.o
+ .text.OneWireTransaction
+                0x00000000       0x78 ../lib/driverlib/bin/onewire.o
+ .debug_info    0x00000000      0x88c ../lib/driverlib/bin/onewire.o
+ .debug_abbrev  0x00000000      0x1de ../lib/driverlib/bin/onewire.o
+ .debug_loclists
+                0x00000000      0x497 ../lib/driverlib/bin/onewire.o
+ .debug_aranges
+                0x00000000       0x88 ../lib/driverlib/bin/onewire.o
+ .debug_rnglists
+                0x00000000       0x82 ../lib/driverlib/bin/onewire.o
+ .debug_line    0x00000000      0x6a2 ../lib/driverlib/bin/onewire.o
+ .debug_str     0x00000000      0x367 ../lib/driverlib/bin/onewire.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/onewire.o
+ .debug_frame   0x00000000      0x1a4 ../lib/driverlib/bin/onewire.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/onewire.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/pwm.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/pwm.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/pwm.o
+ .text._PWMGenValid
+                0x00000000       0x1a ../lib/driverlib/bin/pwm.o
+ .text._PWMOutValid
+                0x00000000       0x2a ../lib/driverlib/bin/pwm.o
+ .text._PWMGenIntNumberGet
+                0x00000000      0x108 ../lib/driverlib/bin/pwm.o
+ .text._PWMFaultIntNumberGet
+                0x00000000       0x4c ../lib/driverlib/bin/pwm.o
+ .rodata.PWMGenConfigure.str1.1
+                0x00000000        0x6 ../lib/driverlib/bin/pwm.o
+ .text.PWMGenConfigure
+                0x00000000       0x58 ../lib/driverlib/bin/pwm.o
+ .text.PWMGenPeriodSet
+                0x00000000       0x6c ../lib/driverlib/bin/pwm.o
+ .text.PWMGenPeriodGet
+                0x00000000       0x44 ../lib/driverlib/bin/pwm.o
+ .text.PWMGenEnable
+                0x00000000       0x40 ../lib/driverlib/bin/pwm.o
+ .text.PWMGenDisable
+                0x00000000       0x40 ../lib/driverlib/bin/pwm.o
+ .text.PWMPulseWidthSet
+                0x00000000       0x60 ../lib/driverlib/bin/pwm.o
+ .text.PWMPulseWidthGet
+                0x00000000       0x50 ../lib/driverlib/bin/pwm.o
+ .text.PWMDeadBandEnable
+                0x00000000       0x68 ../lib/driverlib/bin/pwm.o
+ .text.PWMDeadBandDisable
+                0x00000000       0x40 ../lib/driverlib/bin/pwm.o
+ .text.PWMSyncUpdate
+                0x00000000       0x34 ../lib/driverlib/bin/pwm.o
+ .text.PWMSyncTimeBase
+                0x00000000       0x34 ../lib/driverlib/bin/pwm.o
+ .text.PWMOutputState
+                0x00000000       0x44 ../lib/driverlib/bin/pwm.o
+ .text.PWMOutputInvert
+                0x00000000       0x44 ../lib/driverlib/bin/pwm.o
+ .text.PWMOutputFaultLevel
+                0x00000000       0x44 ../lib/driverlib/bin/pwm.o
+ .text.PWMOutputFault
+                0x00000000       0x44 ../lib/driverlib/bin/pwm.o
+ .text.PWMGenIntRegister
+                0x00000000       0x60 ../lib/driverlib/bin/pwm.o
+ .text.PWMGenIntUnregister
+                0x00000000       0x5c ../lib/driverlib/bin/pwm.o
+ .text.PWMFaultIntRegister
+                0x00000000       0x48 ../lib/driverlib/bin/pwm.o
+ .text.PWMFaultIntUnregister
+                0x00000000       0x44 ../lib/driverlib/bin/pwm.o
+ .text.PWMGenIntTrigEnable
+                0x00000000       0x54 ../lib/driverlib/bin/pwm.o
+ .text.PWMGenIntTrigDisable
+                0x00000000       0x58 ../lib/driverlib/bin/pwm.o
+ .text.PWMGenIntStatus
+                0x00000000       0x44 ../lib/driverlib/bin/pwm.o
+ .text.PWMGenIntClear
+                0x00000000       0x4c ../lib/driverlib/bin/pwm.o
+ .text.PWMIntEnable
+                0x00000000       0x3c ../lib/driverlib/bin/pwm.o
+ .text.PWMIntDisable
+                0x00000000       0x3c ../lib/driverlib/bin/pwm.o
+ .text.PWMFaultIntClear
+                0x00000000       0x28 ../lib/driverlib/bin/pwm.o
+ .text.PWMIntStatus
+                0x00000000       0x2c ../lib/driverlib/bin/pwm.o
+ .text.PWMFaultIntClearExt
+                0x00000000       0x38 ../lib/driverlib/bin/pwm.o
+ .text.PWMGenFaultConfigure
+                0x00000000       0x6c ../lib/driverlib/bin/pwm.o
+ .text.PWMGenFaultTriggerSet
+                0x00000000       0x78 ../lib/driverlib/bin/pwm.o
+ .text.PWMGenFaultTriggerGet
+                0x00000000       0x54 ../lib/driverlib/bin/pwm.o
+ .text.PWMGenFaultStatus
+                0x00000000       0x5c ../lib/driverlib/bin/pwm.o
+ .text.PWMGenFaultClear
+                0x00000000       0x88 ../lib/driverlib/bin/pwm.o
+ .text.PWMClockSet
+                0x00000000       0x4c ../lib/driverlib/bin/pwm.o
+ .text.PWMClockGet
+                0x00000000       0x38 ../lib/driverlib/bin/pwm.o
+ .text.PWMOutputUpdateMode
+                0x00000000       0x7c ../lib/driverlib/bin/pwm.o
+ .debug_info    0x00000000     0x19d9 ../lib/driverlib/bin/pwm.o
+ .debug_abbrev  0x00000000      0x177 ../lib/driverlib/bin/pwm.o
+ .debug_loclists
+                0x00000000      0xf02 ../lib/driverlib/bin/pwm.o
+ .debug_aranges
+                0x00000000      0x158 ../lib/driverlib/bin/pwm.o
+ .debug_rnglists
+                0x00000000       0xff ../lib/driverlib/bin/pwm.o
+ .debug_line    0x00000000     0x12cb ../lib/driverlib/bin/pwm.o
+ .debug_str     0x00000000      0x61f ../lib/driverlib/bin/pwm.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/pwm.o
+ .debug_frame   0x00000000      0x474 ../lib/driverlib/bin/pwm.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/pwm.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/qei.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/qei.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/qei.o
+ .rodata._QEIIntNumberGet.str1.1
+                0x00000000        0x6 ../lib/driverlib/bin/qei.o
+ .text._QEIIntNumberGet
+                0x00000000       0x64 ../lib/driverlib/bin/qei.o
+ .text.QEIEnable
+                0x00000000       0x28 ../lib/driverlib/bin/qei.o
+ .text.QEIDisable
+                0x00000000       0x28 ../lib/driverlib/bin/qei.o
+ .text.QEIConfigure
+                0x00000000       0x30 ../lib/driverlib/bin/qei.o
+ .text.QEIPositionGet
+                0x00000000       0x24 ../lib/driverlib/bin/qei.o
+ .text.QEIPositionSet
+                0x00000000       0x24 ../lib/driverlib/bin/qei.o
+ .text.QEIDirectionGet
+                0x00000000       0x30 ../lib/driverlib/bin/qei.o
+ .text.QEIErrorGet
+                0x00000000       0x28 ../lib/driverlib/bin/qei.o
+ .text.QEIFilterEnable
+                0x00000000       0x2c ../lib/driverlib/bin/qei.o
+ .text.QEIFilterDisable
+                0x00000000       0x2c ../lib/driverlib/bin/qei.o
+ .text.QEIFilterConfigure
+                0x00000000       0x40 ../lib/driverlib/bin/qei.o
+ .text.QEIVelocityEnable
+                0x00000000       0x2c ../lib/driverlib/bin/qei.o
+ .text.QEIVelocityDisable
+                0x00000000       0x2c ../lib/driverlib/bin/qei.o
+ .text.QEIVelocityConfigure
+                0x00000000       0x50 ../lib/driverlib/bin/qei.o
+ .text.QEIVelocityGet
+                0x00000000       0x24 ../lib/driverlib/bin/qei.o
+ .text.QEIIntRegister
+                0x00000000       0x48 ../lib/driverlib/bin/qei.o
+ .text.QEIIntUnregister
+                0x00000000       0x44 ../lib/driverlib/bin/qei.o
+ .text.QEIIntEnable
+                0x00000000       0x2c ../lib/driverlib/bin/qei.o
+ .text.QEIIntDisable
+                0x00000000       0x2c ../lib/driverlib/bin/qei.o
+ .text.QEIIntStatus
+                0x00000000       0x2c ../lib/driverlib/bin/qei.o
+ .text.QEIIntClear
+                0x00000000       0x28 ../lib/driverlib/bin/qei.o
+ .debug_info    0x00000000      0x8c3 ../lib/driverlib/bin/qei.o
+ .debug_abbrev  0x00000000      0x18d ../lib/driverlib/bin/qei.o
+ .debug_loclists
+                0x00000000      0x4b3 ../lib/driverlib/bin/qei.o
+ .debug_aranges
+                0x00000000       0xc0 ../lib/driverlib/bin/qei.o
+ .debug_rnglists
+                0x00000000       0x8b ../lib/driverlib/bin/qei.o
+ .debug_line    0x00000000      0x6f6 ../lib/driverlib/bin/qei.o
+ .debug_str     0x00000000      0x390 ../lib/driverlib/bin/qei.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/qei.o
+ .debug_frame   0x00000000      0x238 ../lib/driverlib/bin/qei.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/qei.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/shamd5.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/shamd5.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/shamd5.o
+ .rodata.SHAMD5Reset.str1.1
+                0x00000000        0x9 ../lib/driverlib/bin/shamd5.o
+ .text.SHAMD5Reset
+                0x00000000       0x3c ../lib/driverlib/bin/shamd5.o
+ .text.SHAMD5DMAEnable
+                0x00000000       0x28 ../lib/driverlib/bin/shamd5.o
+ .text.SHAMD5DMADisable
+                0x00000000       0x28 ../lib/driverlib/bin/shamd5.o
+ .text.SHAMD5IntStatus
+                0x00000000       0x60 ../lib/driverlib/bin/shamd5.o
+ .text.SHAMD5IntEnable
+                0x00000000       0x68 ../lib/driverlib/bin/shamd5.o
+ .text.SHAMD5IntDisable
+                0x00000000       0x78 ../lib/driverlib/bin/shamd5.o
+ .text.SHAMD5IntClear
+                0x00000000       0x50 ../lib/driverlib/bin/shamd5.o
+ .text.SHAMD5IntRegister
+                0x00000000       0x30 ../lib/driverlib/bin/shamd5.o
+ .text.SHAMD5IntUnregister
+                0x00000000       0x2c ../lib/driverlib/bin/shamd5.o
+ .text.SHAMD5HashLengthSet
+                0x00000000       0x24 ../lib/driverlib/bin/shamd5.o
+ .text.SHAMD5ConfigSet
+                0x00000000       0x3c ../lib/driverlib/bin/shamd5.o
+ .text.SHAMD5DataWriteNonBlocking
+                0x00000000       0x40 ../lib/driverlib/bin/shamd5.o
+ .text.SHAMD5DataWrite
+                0x00000000       0x3c ../lib/driverlib/bin/shamd5.o
+ .text._SHAMD5DataWriteMultiple
+                0x00000000       0x54 ../lib/driverlib/bin/shamd5.o
+ .text.SHAMD5ResultRead
+                0x00000000       0x54 ../lib/driverlib/bin/shamd5.o
+ .text.SHAMD5DataProcess
+                0x00000000       0x64 ../lib/driverlib/bin/shamd5.o
+ .text.SHAMD5HMACProcess
+                0x00000000       0x58 ../lib/driverlib/bin/shamd5.o
+ .text.SHAMD5HMACPPKeyGenerate
+                0x00000000       0x60 ../lib/driverlib/bin/shamd5.o
+ .text.SHAMD5HMACKeySet
+                0x00000000       0x34 ../lib/driverlib/bin/shamd5.o
+ .text.SHAMD5HMACPPKeySet
+                0x00000000       0x38 ../lib/driverlib/bin/shamd5.o
+ .debug_info    0x00000000      0xab8 ../lib/driverlib/bin/shamd5.o
+ .debug_abbrev  0x00000000      0x18c ../lib/driverlib/bin/shamd5.o
+ .debug_loclists
+                0x00000000      0x869 ../lib/driverlib/bin/shamd5.o
+ .debug_aranges
+                0x00000000       0xb8 ../lib/driverlib/bin/shamd5.o
+ .debug_rnglists
+                0x00000000       0x85 ../lib/driverlib/bin/shamd5.o
+ .debug_line    0x00000000      0x9ab ../lib/driverlib/bin/shamd5.o
+ .debug_str     0x00000000      0x40b ../lib/driverlib/bin/shamd5.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/shamd5.o
+ .debug_frame   0x00000000      0x250 ../lib/driverlib/bin/shamd5.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/shamd5.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/ssi.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/ssi.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/ssi.o
+ .text._SSIBaseValid
+                0x00000000       0x14 ../lib/driverlib/bin/ssi.o
+ .rodata._SSIIntNumberGet.str1.1
+                0x00000000        0x6 ../lib/driverlib/bin/ssi.o
+ .text._SSIIntNumberGet
+                0x00000000       0x58 ../lib/driverlib/bin/ssi.o
+ .text.SSIConfigSetExpClk
+                0x00000000       0xb8 ../lib/driverlib/bin/ssi.o
+ .text.SSIEnable
+                0x00000000       0x24 ../lib/driverlib/bin/ssi.o
+ .text.SSIDisable
+                0x00000000       0x24 ../lib/driverlib/bin/ssi.o
+ .text.SSIIntRegister
+                0x00000000       0x40 ../lib/driverlib/bin/ssi.o
+ .text.SSIIntUnregister
+                0x00000000       0x3c ../lib/driverlib/bin/ssi.o
+ .text.SSIIntEnable
+                0x00000000       0x24 ../lib/driverlib/bin/ssi.o
+ .text.SSIIntDisable
+                0x00000000       0x24 ../lib/driverlib/bin/ssi.o
+ .text.SSIIntStatus
+                0x00000000       0x24 ../lib/driverlib/bin/ssi.o
+ .text.SSIIntClear
+                0x00000000       0x20 ../lib/driverlib/bin/ssi.o
+ .text.SSIDataPut
+                0x00000000       0x40 ../lib/driverlib/bin/ssi.o
+ .text.SSIDataPutNonBlocking
+                0x00000000       0x44 ../lib/driverlib/bin/ssi.o
+ .text.SSIDataGet
+                0x00000000       0x28 ../lib/driverlib/bin/ssi.o
+ .text.SSIDataGetNonBlocking
+                0x00000000       0x2c ../lib/driverlib/bin/ssi.o
+ .text.SSIDMAEnable
+                0x00000000       0x24 ../lib/driverlib/bin/ssi.o
+ .text.SSIDMADisable
+                0x00000000       0x24 ../lib/driverlib/bin/ssi.o
+ .text.SSIBusy  0x00000000       0x20 ../lib/driverlib/bin/ssi.o
+ .text.SSIClockSourceSet
+                0x00000000       0x30 ../lib/driverlib/bin/ssi.o
+ .text.SSIClockSourceGet
+                0x00000000       0x20 ../lib/driverlib/bin/ssi.o
+ .text.SSIAdvModeSet
+                0x00000000       0x48 ../lib/driverlib/bin/ssi.o
+ .text.SSIAdvDataPutFrameEnd
+                0x00000000       0x3c ../lib/driverlib/bin/ssi.o
+ .text.SSIAdvDataPutFrameEndNonBlocking
+                0x00000000       0x40 ../lib/driverlib/bin/ssi.o
+ .text.SSIAdvFrameHoldEnable
+                0x00000000       0x24 ../lib/driverlib/bin/ssi.o
+ .text.SSIAdvFrameHoldDisable
+                0x00000000       0x24 ../lib/driverlib/bin/ssi.o
+ .text.SSILoopbackEnable
+                0x00000000       0x24 ../lib/driverlib/bin/ssi.o
+ .text.SSILoopbackDisable
+                0x00000000       0x24 ../lib/driverlib/bin/ssi.o
+ .rodata.g_ppui32SSIIntMapSnowflake
+                0x00000000       0x20 ../lib/driverlib/bin/ssi.o
+ .rodata.g_ppui32SSIIntMap
+                0x00000000       0x20 ../lib/driverlib/bin/ssi.o
+ .debug_info    0x00000000      0xef5 ../lib/driverlib/bin/ssi.o
+ .debug_abbrev  0x00000000      0x1be ../lib/driverlib/bin/ssi.o
+ .debug_loclists
+                0x00000000      0x781 ../lib/driverlib/bin/ssi.o
+ .debug_aranges
+                0x00000000       0xf0 ../lib/driverlib/bin/ssi.o
+ .debug_rnglists
+                0x00000000       0xb0 ../lib/driverlib/bin/ssi.o
+ .debug_line    0x00000000      0x9d8 ../lib/driverlib/bin/ssi.o
+ .debug_str     0x00000000      0x4ea ../lib/driverlib/bin/ssi.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/ssi.o
+ .debug_frame   0x00000000      0x2e4 ../lib/driverlib/bin/ssi.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/ssi.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/sw_crc.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/sw_crc.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/sw_crc.o
+ .text.Crc8CCITT
+                0x00000000       0x90 ../lib/driverlib/bin/sw_crc.o
+ .text.Crc16    0x00000000       0xe0 ../lib/driverlib/bin/sw_crc.o
+ .text.Crc16Array
+                0x00000000        0x8 ../lib/driverlib/bin/sw_crc.o
+ .text.Crc16Array3
+                0x00000000       0xac ../lib/driverlib/bin/sw_crc.o
+ .text.Crc32    0x00000000       0xdc ../lib/driverlib/bin/sw_crc.o
+ .rodata.g_pui32Crc32
+                0x00000000      0x400 ../lib/driverlib/bin/sw_crc.o
+ .rodata.g_pui16Crc16
+                0x00000000      0x200 ../lib/driverlib/bin/sw_crc.o
+ .rodata.g_pui8Crc8CCITT
+                0x00000000      0x100 ../lib/driverlib/bin/sw_crc.o
+ .debug_info    0x00000000      0x38a ../lib/driverlib/bin/sw_crc.o
+ .debug_abbrev  0x00000000      0x115 ../lib/driverlib/bin/sw_crc.o
+ .debug_loclists
+                0x00000000      0x4b0 ../lib/driverlib/bin/sw_crc.o
+ .debug_aranges
+                0x00000000       0x40 ../lib/driverlib/bin/sw_crc.o
+ .debug_rnglists
+                0x00000000       0x2f ../lib/driverlib/bin/sw_crc.o
+ .debug_line    0x00000000      0x52b ../lib/driverlib/bin/sw_crc.o
+ .debug_str     0x00000000      0x26d ../lib/driverlib/bin/sw_crc.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/sw_crc.o
+ .debug_frame   0x00000000       0xa4 ../lib/driverlib/bin/sw_crc.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/sw_crc.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/sysctl.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/sysctl.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/sysctl.o
+ .text._SysCtlMemTimingGet
+                0x00000000       0x64 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlSRAMSizeGet
+                0x00000000       0x10 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlFlashSizeGet
+                0x00000000       0x40 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlFlashSectorSizeGet
+                0x00000000       0x38 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlPeripheralPresent
+                0x00000000       0x3c ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlPeripheralPowerOn
+                0x00000000       0x38 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlPeripheralPowerOff
+                0x00000000       0x38 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlPeripheralReset
+                0x00000000       0x50 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlPeripheralDisable
+                0x00000000       0x38 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlPeripheralSleepEnable
+                0x00000000       0x38 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlPeripheralSleepDisable
+                0x00000000       0x38 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlPeripheralDeepSleepEnable
+                0x00000000       0x38 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlPeripheralDeepSleepDisable
+                0x00000000       0x38 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlPeripheralClockGating
+                0x00000000       0x44 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlIntRegister
+                0x00000000       0x14 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlIntUnregister
+                0x00000000       0x12 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlIntEnable
+                0x00000000       0x10 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlIntDisable
+                0x00000000       0x10 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlIntClear
+                0x00000000        0xc ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlIntStatus
+                0x00000000       0x10 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlLDOSleepSet
+                0x00000000       0x28 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlLDOSleepGet
+                0x00000000        0xc ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlLDODeepSleepSet
+                0x00000000       0x28 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlLDODeepSleepGet
+                0x00000000        0xc ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlSleepPowerSet
+                0x00000000        0xc ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlDeepSleepPowerSet
+                0x00000000        0xc ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlReset
+                0x00000000       0x10 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlSleep
+                0x00000000        0x4 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlDeepSleep
+                0x00000000       0x24 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlResetCauseGet
+                0x00000000        0xc ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlResetCauseClear
+                0x00000000       0x10 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlDelay
+                0x00000000        0x8 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlMOSCConfigSet
+                0x00000000        0xc ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlPIOSCCalibrate
+                0x00000000       0x50 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlResetBehaviorSet
+                0x00000000        0xc ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlResetBehaviorGet
+                0x00000000        0xc ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlClockFreqSet
+                0x00000000      0x25c ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlClockSet
+                0x00000000      0x104 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlDeepSleepClockSet
+                0x00000000        0xc ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlDeepSleepClockConfigSet
+                0x00000000       0x78 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlPWMClockSet
+                0x00000000       0x58 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlPWMClockGet
+                0x00000000       0x30 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlGPIOAHBEnable
+                0x00000000       0x34 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlGPIOAHBDisable
+                0x00000000       0x38 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlUSBPLLEnable
+                0x00000000       0x10 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlUSBPLLDisable
+                0x00000000       0x10 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlVoltageEventConfig
+                0x00000000        0xc ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlVoltageEventStatus
+                0x00000000        0xc ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlVoltageEventClear
+                0x00000000       0x10 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlVCOGet
+                0x00000000       0x6c ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlNMIStatus
+                0x00000000        0xc ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlNMIClear
+                0x00000000       0x10 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlClockOutConfig
+                0x00000000       0x3c ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlAltClkConfig
+                0x00000000        0xc ../lib/driverlib/bin/sysctl.o
+ .rodata.g_pui32VCOFrequencies
+                0x00000000        0x8 ../lib/driverlib/bin/sysctl.o
+ .rodata.g_sXTALtoMEMTIM
+                0x00000000       0x30 ../lib/driverlib/bin/sysctl.o
+ .rodata.g_pppui32XTALtoVCO
+                0x00000000      0x1b0 ../lib/driverlib/bin/sysctl.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/sysexc.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/sysexc.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/sysexc.o
+ .text._SysExcIntNumberGet
+                0x00000000       0x34 ../lib/driverlib/bin/sysexc.o
+ .rodata.SysExcIntRegister.str1.1
+                0x00000000        0x9 ../lib/driverlib/bin/sysexc.o
+ .text.SysExcIntRegister
+                0x00000000       0x2c ../lib/driverlib/bin/sysexc.o
+ .text.SysExcIntUnregister
+                0x00000000       0x28 ../lib/driverlib/bin/sysexc.o
+ .text.SysExcIntEnable
+                0x00000000       0x10 ../lib/driverlib/bin/sysexc.o
+ .text.SysExcIntDisable
+                0x00000000       0x10 ../lib/driverlib/bin/sysexc.o
+ .text.SysExcIntStatus
+                0x00000000       0x10 ../lib/driverlib/bin/sysexc.o
+ .text.SysExcIntClear
+                0x00000000        0xc ../lib/driverlib/bin/sysexc.o
+ .debug_info    0x00000000      0x2a8 ../lib/driverlib/bin/sysexc.o
+ .debug_abbrev  0x00000000      0x15d ../lib/driverlib/bin/sysexc.o
+ .debug_loclists
+                0x00000000       0x9a ../lib/driverlib/bin/sysexc.o
+ .debug_aranges
+                0x00000000       0x50 ../lib/driverlib/bin/sysexc.o
+ .debug_rnglists
+                0x00000000       0x37 ../lib/driverlib/bin/sysexc.o
+ .debug_line    0x00000000      0x24f ../lib/driverlib/bin/sysexc.o
+ .debug_str     0x00000000      0x26a ../lib/driverlib/bin/sysexc.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/sysexc.o
+ .debug_frame   0x00000000       0xa0 ../lib/driverlib/bin/sysexc.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/sysexc.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/systick.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/systick.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/systick.o
+ .text.SysTickEnable
+                0x00000000        0xe ../lib/driverlib/bin/systick.o
+ .text.SysTickDisable
+                0x00000000        0xe ../lib/driverlib/bin/systick.o
+ .text.SysTickIntRegister
+                0x00000000       0x18 ../lib/driverlib/bin/systick.o
+ .text.SysTickIntUnregister
+                0x00000000       0x12 ../lib/driverlib/bin/systick.o
+ .text.SysTickIntEnable
+                0x00000000        0xe ../lib/driverlib/bin/systick.o
+ .text.SysTickIntDisable
+                0x00000000        0xe ../lib/driverlib/bin/systick.o
+ .rodata.SysTickPeriodSet.str1.1
+                0x00000000        0xa ../lib/driverlib/bin/systick.o
+ .text.SysTickPeriodSet
+                0x00000000       0x20 ../lib/driverlib/bin/systick.o
+ .text.SysTickPeriodGet
+                0x00000000        0xa ../lib/driverlib/bin/systick.o
+ .text.SysTickValueGet
+                0x00000000        0x8 ../lib/driverlib/bin/systick.o
+ .debug_info    0x00000000      0x1e8 ../lib/driverlib/bin/systick.o
+ .debug_abbrev  0x00000000      0x109 ../lib/driverlib/bin/systick.o
+ .debug_loclists
+                0x00000000       0x52 ../lib/driverlib/bin/systick.o
+ .debug_aranges
+                0x00000000       0x60 ../lib/driverlib/bin/systick.o
+ .debug_rnglists
+                0x00000000       0x43 ../lib/driverlib/bin/systick.o
+ .debug_line    0x00000000      0x23c ../lib/driverlib/bin/systick.o
+ .debug_str     0x00000000      0x25e ../lib/driverlib/bin/systick.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/systick.o
+ .debug_frame   0x00000000       0xb0 ../lib/driverlib/bin/systick.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/systick.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/timer.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/timer.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/timer.o
+ .text._TimerBaseValid
+                0x00000000       0x34 ../lib/driverlib/bin/timer.o
+ .text._TimerIntNumberGet
+                0x00000000       0x4c ../lib/driverlib/bin/timer.o
+ .rodata.TimerEnable.str1.1
+                0x00000000        0x8 ../lib/driverlib/bin/timer.o
+ .text.TimerEnable
+                0x00000000       0x44 ../lib/driverlib/bin/timer.o
+ .text.TimerDisable
+                0x00000000       0x44 ../lib/driverlib/bin/timer.o
+ .text.TimerConfigure
+                0x00000000       0xf8 ../lib/driverlib/bin/timer.o
+ .text.TimerControlLevel
+                0x00000000       0x54 ../lib/driverlib/bin/timer.o
+ .text.TimerControlTrigger
+                0x00000000       0x84 ../lib/driverlib/bin/timer.o
+ .text.TimerControlEvent
+                0x00000000       0x50 ../lib/driverlib/bin/timer.o
+ .text.TimerControlStall
+                0x00000000       0x54 ../lib/driverlib/bin/timer.o
+ .text.TimerControlWaitOnTrigger
+                0x00000000       0x70 ../lib/driverlib/bin/timer.o
+ .text.TimerRTCEnable
+                0x00000000       0x24 ../lib/driverlib/bin/timer.o
+ .text.TimerRTCDisable
+                0x00000000       0x24 ../lib/driverlib/bin/timer.o
+ .text.TimerClockSourceSet
+                0x00000000       0x30 ../lib/driverlib/bin/timer.o
+ .text.TimerClockSourceGet
+                0x00000000       0x20 ../lib/driverlib/bin/timer.o
+ .text.TimerPrescaleSet
+                0x00000000       0x64 ../lib/driverlib/bin/timer.o
+ .text.TimerPrescaleGet
+                0x00000000       0x40 ../lib/driverlib/bin/timer.o
+ .text.TimerPrescaleMatchSet
+                0x00000000       0x64 ../lib/driverlib/bin/timer.o
+ .text.TimerPrescaleMatchGet
+                0x00000000       0x40 ../lib/driverlib/bin/timer.o
+ .text.TimerLoadSet
+                0x00000000       0x50 ../lib/driverlib/bin/timer.o
+ .text.TimerLoadGet
+                0x00000000       0x38 ../lib/driverlib/bin/timer.o
+ .text.TimerLoadSet64
+                0x00000000       0x24 ../lib/driverlib/bin/timer.o
+ .text.TimerLoadGet64
+                0x00000000       0x24 ../lib/driverlib/bin/timer.o
+ .text.TimerValueGet
+                0x00000000       0x38 ../lib/driverlib/bin/timer.o
+ .text.TimerValueGet64
+                0x00000000       0x24 ../lib/driverlib/bin/timer.o
+ .text.TimerMatchSet
+                0x00000000       0x50 ../lib/driverlib/bin/timer.o
+ .text.TimerMatchGet
+                0x00000000       0x38 ../lib/driverlib/bin/timer.o
+ .text.TimerMatchSet64
+                0x00000000       0x24 ../lib/driverlib/bin/timer.o
+ .text.TimerMatchGet64
+                0x00000000       0x24 ../lib/driverlib/bin/timer.o
+ .text.TimerIntRegister
+                0x00000000       0x60 ../lib/driverlib/bin/timer.o
+ .text.TimerIntUnregister
+                0x00000000       0x50 ../lib/driverlib/bin/timer.o
+ .text.TimerIntEnable
+                0x00000000       0x24 ../lib/driverlib/bin/timer.o
+ .text.TimerIntDisable
+                0x00000000       0x24 ../lib/driverlib/bin/timer.o
+ .text.TimerIntStatus
+                0x00000000       0x24 ../lib/driverlib/bin/timer.o
+ .text.TimerIntClear
+                0x00000000       0x20 ../lib/driverlib/bin/timer.o
+ .text.TimerSynchronize
+                0x00000000       0x24 ../lib/driverlib/bin/timer.o
+ .text.TimerADCEventSet
+                0x00000000       0x20 ../lib/driverlib/bin/timer.o
+ .text.TimerADCEventGet
+                0x00000000       0x1c ../lib/driverlib/bin/timer.o
+ .text.TimerDMAEventSet
+                0x00000000       0x20 ../lib/driverlib/bin/timer.o
+ .text.TimerDMAEventGet
+                0x00000000       0x1c ../lib/driverlib/bin/timer.o
+ .text.TimerUpdateMode
+                0x00000000       0x28 ../lib/driverlib/bin/timer.o
+ .rodata.g_ppui32TimerIntMapSnowflake
+                0x00000000       0x40 ../lib/driverlib/bin/timer.o
+ .rodata.g_ppui32TimerIntMap
+                0x00000000       0x60 ../lib/driverlib/bin/timer.o
+ .debug_info    0x00000000     0x16b6 ../lib/driverlib/bin/timer.o
+ .debug_abbrev  0x00000000      0x1db ../lib/driverlib/bin/timer.o
+ .debug_loclists
+                0x00000000      0xb87 ../lib/driverlib/bin/timer.o
+ .debug_aranges
+                0x00000000      0x158 ../lib/driverlib/bin/timer.o
+ .debug_rnglists
+                0x00000000      0x10b ../lib/driverlib/bin/timer.o
+ .debug_line    0x00000000     0x1088 ../lib/driverlib/bin/timer.o
+ .debug_str     0x00000000      0x5db ../lib/driverlib/bin/timer.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/timer.o
+ .debug_frame   0x00000000      0x444 ../lib/driverlib/bin/timer.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/timer.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/uart.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/uart.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/uart.o
+ .text._UARTIntNumberGet
+                0x00000000       0x44 ../lib/driverlib/bin/uart.o
+ .text.UARTParityModeSet
+                0x00000000       0x44 ../lib/driverlib/bin/uart.o
+ .text.UARTParityModeGet
+                0x00000000       0x20 ../lib/driverlib/bin/uart.o
+ .text.UARTFIFOLevelSet
+                0x00000000       0x50 ../lib/driverlib/bin/uart.o
+ .text.UARTFIFOLevelGet
+                0x00000000       0x2c ../lib/driverlib/bin/uart.o
+ .text.UARTConfigGetExpClk
+                0x00000000       0x44 ../lib/driverlib/bin/uart.o
+ .text.UARTFIFOEnable
+                0x00000000       0x24 ../lib/driverlib/bin/uart.o
+ .text.UARTFIFODisable
+                0x00000000       0x24 ../lib/driverlib/bin/uart.o
+ .text.UARTEnableSIR
+                0x00000000       0x2c ../lib/driverlib/bin/uart.o
+ .text.UARTDisableSIR
+                0x00000000       0x24 ../lib/driverlib/bin/uart.o
+ .text.UARTSmartCardEnable
+                0x00000000       0x30 ../lib/driverlib/bin/uart.o
+ .text.UARTSmartCardDisable
+                0x00000000       0x24 ../lib/driverlib/bin/uart.o
+ .text.UARTModemControlSet
+                0x00000000       0x48 ../lib/driverlib/bin/uart.o
+ .text.UARTModemControlClear
+                0x00000000       0x48 ../lib/driverlib/bin/uart.o
+ .text.UARTModemControlGet
+                0x00000000       0x30 ../lib/driverlib/bin/uart.o
+ .text.UARTModemStatusGet
+                0x00000000       0x34 ../lib/driverlib/bin/uart.o
+ .text.UARTFlowControlSet
+                0x00000000       0x38 ../lib/driverlib/bin/uart.o
+ .text.UARTFlowControlGet
+                0x00000000       0x20 ../lib/driverlib/bin/uart.o
+ .text.UARTTxIntModeSet
+                0x00000000       0x38 ../lib/driverlib/bin/uart.o
+ .text.UARTTxIntModeGet
+                0x00000000       0x20 ../lib/driverlib/bin/uart.o
+ .text.UARTSpaceAvail
+                0x00000000       0x28 ../lib/driverlib/bin/uart.o
+ .text.UARTCharGetNonBlocking
+                0x00000000       0x28 ../lib/driverlib/bin/uart.o
+ .text.UARTCharPutNonBlocking
+                0x00000000       0x28 ../lib/driverlib/bin/uart.o
+ .text.UARTBreakCtl
+                0x00000000       0x2c ../lib/driverlib/bin/uart.o
+ .text.UARTBusy
+                0x00000000       0x20 ../lib/driverlib/bin/uart.o
+ .text.UARTIntRegister
+                0x00000000       0x40 ../lib/driverlib/bin/uart.o
+ .text.UARTIntUnregister
+                0x00000000       0x3c ../lib/driverlib/bin/uart.o
+ .text.UARTIntEnable
+                0x00000000       0x24 ../lib/driverlib/bin/uart.o
+ .text.UARTIntDisable
+                0x00000000       0x24 ../lib/driverlib/bin/uart.o
+ .text.UARTIntStatus
+                0x00000000       0x24 ../lib/driverlib/bin/uart.o
+ .text.UARTIntClear
+                0x00000000       0x20 ../lib/driverlib/bin/uart.o
+ .text.UARTDMAEnable
+                0x00000000       0x24 ../lib/driverlib/bin/uart.o
+ .text.UARTDMADisable
+                0x00000000       0x24 ../lib/driverlib/bin/uart.o
+ .text.UARTRxErrorGet
+                0x00000000       0x20 ../lib/driverlib/bin/uart.o
+ .text.UARTRxErrorClear
+                0x00000000       0x20 ../lib/driverlib/bin/uart.o
+ .text.UARTClockSourceGet
+                0x00000000       0x20 ../lib/driverlib/bin/uart.o
+ .text.UART9BitEnable
+                0x00000000       0x28 ../lib/driverlib/bin/uart.o
+ .text.UART9BitDisable
+                0x00000000       0x28 ../lib/driverlib/bin/uart.o
+ .text.UART9BitAddrSet
+                0x00000000       0x28 ../lib/driverlib/bin/uart.o
+ .text.UART9BitAddrSend
+                0x00000000       0x44 ../lib/driverlib/bin/uart.o
+ .text.UARTLoopbackEnable
+                0x00000000       0x24 ../lib/driverlib/bin/uart.o
+ .rodata.g_ppui32UARTIntMapSnowflake
+                0x00000000       0x40 ../lib/driverlib/bin/uart.o
+ .rodata.g_ppui32UARTIntMap
+                0x00000000       0x40 ../lib/driverlib/bin/uart.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/udma.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/udma.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/udma.o
+ .text.uDMAEnable
+                0x00000000        0xc ../lib/driverlib/bin/udma.o
+ .text.uDMADisable
+                0x00000000        0xc ../lib/driverlib/bin/udma.o
+ .text.uDMAErrorStatusGet
+                0x00000000        0xc ../lib/driverlib/bin/udma.o
+ .text.uDMAErrorStatusClear
+                0x00000000        0xc ../lib/driverlib/bin/udma.o
+ .rodata.uDMAChannelEnable.str1.1
+                0x00000000        0x7 ../lib/driverlib/bin/udma.o
+ .text.uDMAChannelEnable
+                0x00000000       0x2c ../lib/driverlib/bin/udma.o
+ .text.uDMAChannelDisable
+                0x00000000       0x2c ../lib/driverlib/bin/udma.o
+ .text.uDMAChannelIsEnabled
+                0x00000000       0x34 ../lib/driverlib/bin/udma.o
+ .text.uDMAControlBaseSet
+                0x00000000       0x30 ../lib/driverlib/bin/udma.o
+ .text.uDMAControlBaseGet
+                0x00000000        0xc ../lib/driverlib/bin/udma.o
+ .text.uDMAControlAlternateBaseGet
+                0x00000000        0xc ../lib/driverlib/bin/udma.o
+ .text.uDMAChannelRequest
+                0x00000000       0x2c ../lib/driverlib/bin/udma.o
+ .text.uDMAChannelAttributeEnable
+                0x00000000       0x64 ../lib/driverlib/bin/udma.o
+ .text.uDMAChannelAttributeDisable
+                0x00000000       0x64 ../lib/driverlib/bin/udma.o
+ .text.uDMAChannelAttributeGet
+                0x00000000       0x54 ../lib/driverlib/bin/udma.o
+ .text.uDMAChannelControlSet
+                0x00000000       0x4c ../lib/driverlib/bin/udma.o
+ .text.uDMAChannelTransferSet
+                0x00000000      0x100 ../lib/driverlib/bin/udma.o
+ .text.uDMAChannelScatterGatherSet
+                0x00000000       0xa0 ../lib/driverlib/bin/udma.o
+ .text.uDMAChannelSizeGet
+                0x00000000       0x48 ../lib/driverlib/bin/udma.o
+ .text.uDMAChannelModeGet
+                0x00000000       0x48 ../lib/driverlib/bin/udma.o
+ .text.uDMAIntRegister
+                0x00000000       0x28 ../lib/driverlib/bin/udma.o
+ .text.uDMAIntUnregister
+                0x00000000       0x12 ../lib/driverlib/bin/udma.o
+ .text.uDMAIntStatus
+                0x00000000        0xc ../lib/driverlib/bin/udma.o
+ .text.uDMAIntClear
+                0x00000000        0xc ../lib/driverlib/bin/udma.o
+ .text.uDMAChannelAssign
+                0x00000000       0x44 ../lib/driverlib/bin/udma.o
+ .text.uDMAChannelSelectSecondary
+                0x00000000       0x14 ../lib/driverlib/bin/udma.o
+ .text.uDMAChannelSelectDefault
+                0x00000000       0x14 ../lib/driverlib/bin/udma.o
+ .debug_info    0x00000000      0xa82 ../lib/driverlib/bin/udma.o
+ .debug_abbrev  0x00000000      0x1de ../lib/driverlib/bin/udma.o
+ .debug_loclists
+                0x00000000      0x690 ../lib/driverlib/bin/udma.o
+ .debug_aranges
+                0x00000000       0xe8 ../lib/driverlib/bin/udma.o
+ .debug_rnglists
+                0x00000000       0xab ../lib/driverlib/bin/udma.o
+ .debug_line    0x00000000      0xa3e ../lib/driverlib/bin/udma.o
+ .debug_str     0x00000000      0x557 ../lib/driverlib/bin/udma.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/udma.o
+ .debug_frame   0x00000000      0x268 ../lib/driverlib/bin/udma.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/udma.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/usb.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/usb.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/usb.o
+ .rodata._USBIndexWrite.str1.1
+                0x00000000        0x6 ../lib/driverlib/bin/usb.o
+ .text._USBIndexWrite
+                0x00000000       0x48 ../lib/driverlib/bin/usb.o
+ .text._USBIndexRead
+                0x00000000       0x48 ../lib/driverlib/bin/usb.o
+ .text.USBHostSuspend
+                0x00000000       0x24 ../lib/driverlib/bin/usb.o
+ .text.USBHostReset
+                0x00000000       0x30 ../lib/driverlib/bin/usb.o
+ .text.USBHighSpeed
+                0x00000000       0x30 ../lib/driverlib/bin/usb.o
+ .text.USBHostResume
+                0x00000000       0x30 ../lib/driverlib/bin/usb.o
+ .text.USBHostSpeedGet
+                0x00000000       0x44 ../lib/driverlib/bin/usb.o
+ .text.USBDevSpeedGet
+                0x00000000       0x2c ../lib/driverlib/bin/usb.o
+ .text.USBIntDisableControl
+                0x00000000       0x54 ../lib/driverlib/bin/usb.o
+ .text.USBIntEnableControl
+                0x00000000       0x54 ../lib/driverlib/bin/usb.o
+ .text.USBIntStatusControl
+                0x00000000       0x58 ../lib/driverlib/bin/usb.o
+ .text.USBIntDisableEndpoint
+                0x00000000       0x3c ../lib/driverlib/bin/usb.o
+ .text.USBIntEnableEndpoint
+                0x00000000       0x38 ../lib/driverlib/bin/usb.o
+ .text.USBIntStatusEndpoint
+                0x00000000       0x28 ../lib/driverlib/bin/usb.o
+ .text.USBIntRegister
+                0x00000000       0x6c ../lib/driverlib/bin/usb.o
+ .text.USBIntUnregister
+                0x00000000       0x68 ../lib/driverlib/bin/usb.o
+ .text.USBEndpointStatus
+                0x00000000       0x44 ../lib/driverlib/bin/usb.o
+ .text.USBHostEndpointStatusClear
+                0x00000000       0x74 ../lib/driverlib/bin/usb.o
+ .text.USBDevEndpointStatusClear
+                0x00000000       0xa4 ../lib/driverlib/bin/usb.o
+ .text.USBHostEndpointDataToggle
+                0x00000000       0x94 ../lib/driverlib/bin/usb.o
+ .text.USBEndpointDataToggleClear
+                0x00000000       0x64 ../lib/driverlib/bin/usb.o
+ .text.USBHostEndpointPing
+                0x00000000       0x44 ../lib/driverlib/bin/usb.o
+ .text.USBDevEndpointStall
+                0x00000000       0x88 ../lib/driverlib/bin/usb.o
+ .text.USBDevEndpointStallClear
+                0x00000000       0x84 ../lib/driverlib/bin/usb.o
+ .text.USBDevConnect
+                0x00000000       0x28 ../lib/driverlib/bin/usb.o
+ .text.USBDevDisconnect
+                0x00000000       0x28 ../lib/driverlib/bin/usb.o
+ .text.USBDevAddrSet
+                0x00000000       0x24 ../lib/driverlib/bin/usb.o
+ .text.USBDevAddrGet
+                0x00000000       0x20 ../lib/driverlib/bin/usb.o
+ .text.USBHostEndpointConfig
+                0x00000000      0x138 ../lib/driverlib/bin/usb.o
+ .text.USBHostEndpointSpeed
+                0x00000000       0x84 ../lib/driverlib/bin/usb.o
+ .text.USBDevEndpointConfigSet
+                0x00000000       0xc0 ../lib/driverlib/bin/usb.o
+ .text.USBDevEndpointConfigGet
+                0x00000000       0xd0 ../lib/driverlib/bin/usb.o
+ .text.USBFIFOConfigSet
+                0x00000000       0x98 ../lib/driverlib/bin/usb.o
+ .text.USBFIFOConfigGet
+                0x00000000       0x8c ../lib/driverlib/bin/usb.o
+ .text.USBEndpointDMAConfigSet
+                0x00000000       0x4a ../lib/driverlib/bin/usb.o
+ .text.USBEndpointDMAEnable
+                0x00000000       0x1e ../lib/driverlib/bin/usb.o
+ .text.USBEndpointDMADisable
+                0x00000000       0x1e ../lib/driverlib/bin/usb.o
+ .text.USBEndpointDataAvail
+                0x00000000       0x64 ../lib/driverlib/bin/usb.o
+ .text.USBEndpointDataGet
+                0x00000000       0x90 ../lib/driverlib/bin/usb.o
+ .text.USBDevEndpointDataAck
+                0x00000000       0x64 ../lib/driverlib/bin/usb.o
+ .text.USBHostEndpointDataAck
+                0x00000000       0x64 ../lib/driverlib/bin/usb.o
+ .text.USBEndpointDataPut
+                0x00000000       0x78 ../lib/driverlib/bin/usb.o
+ .text.USBEndpointDataSend
+                0x00000000       0x74 ../lib/driverlib/bin/usb.o
+ .text.USBFIFOFlush
+                0x00000000       0x84 ../lib/driverlib/bin/usb.o
+ .text.USBHostRequestIN
+                0x00000000       0x58 ../lib/driverlib/bin/usb.o
+ .text.USBHostRequestINClear
+                0x00000000       0x5c ../lib/driverlib/bin/usb.o
+ .text.USBHostRequestStatus
+                0x00000000       0x24 ../lib/driverlib/bin/usb.o
+ .text.USBHostAddrSet
+                0x00000000       0x48 ../lib/driverlib/bin/usb.o
+ .text.USBHostAddrGet
+                0x00000000       0x44 ../lib/driverlib/bin/usb.o
+ .text.USBHostHubAddrSet
+                0x00000000       0x5c ../lib/driverlib/bin/usb.o
+ .text.USBHostHubAddrGet
+                0x00000000       0x44 ../lib/driverlib/bin/usb.o
+ .text.USBHostPwrConfig
+                0x00000000       0x54 ../lib/driverlib/bin/usb.o
+ .text.USBHostPwrFaultEnable
+                0x00000000       0x2c ../lib/driverlib/bin/usb.o
+ .text.USBHostPwrFaultDisable
+                0x00000000       0x30 ../lib/driverlib/bin/usb.o
+ .text.USBHostPwrEnable
+                0x00000000       0x2c ../lib/driverlib/bin/usb.o
+ .text.USBHostPwrDisable
+                0x00000000       0x30 ../lib/driverlib/bin/usb.o
+ .text.USBFrameNumberGet
+                0x00000000       0x24 ../lib/driverlib/bin/usb.o
+ .text.USBOTGSessionRequest
+                0x00000000       0x34 ../lib/driverlib/bin/usb.o
+ .text.USBFIFOAddrGet
+                0x00000000        0x8 ../lib/driverlib/bin/usb.o
+ .text.USBModeGet
+                0x00000000       0x28 ../lib/driverlib/bin/usb.o
+ .text.USBEndpointDMAChannel
+                0x00000000       0x70 ../lib/driverlib/bin/usb.o
+ .text.USBHostMode
+                0x00000000       0x24 ../lib/driverlib/bin/usb.o
+ .text.USBDevMode
+                0x00000000       0x24 ../lib/driverlib/bin/usb.o
+ .text.USBOTGMode
+                0x00000000       0x24 ../lib/driverlib/bin/usb.o
+ .text.USBModeConfig
+                0x00000000       0x24 ../lib/driverlib/bin/usb.o
+ .text.USBPHYPowerOff
+                0x00000000        0xa ../lib/driverlib/bin/usb.o
+ .text.USBPHYPowerOn
+                0x00000000        0xa ../lib/driverlib/bin/usb.o
+ .text.USBEndpointPacketCountSet
+                0x00000000        0xe ../lib/driverlib/bin/usb.o
+ .text.USBNumEndpointsGet
+                0x00000000        0xa ../lib/driverlib/bin/usb.o
+ .text.USBControllerVersion
+                0x00000000        0xa ../lib/driverlib/bin/usb.o
+ .text.USBClockEnable
+                0x00000000       0x2c ../lib/driverlib/bin/usb.o
+ .text.USBClockDisable
+                0x00000000       0x24 ../lib/driverlib/bin/usb.o
+ .text.USBDMAChannelIntEnable
+                0x00000000       0x3c ../lib/driverlib/bin/usb.o
+ .text.USBDMAChannelIntDisable
+                0x00000000       0x3c ../lib/driverlib/bin/usb.o
+ .text.USBDMAChannelIntStatus
+                0x00000000       0x24 ../lib/driverlib/bin/usb.o
+ .text.USBDMAChannelEnable
+                0x00000000       0x3c ../lib/driverlib/bin/usb.o
+ .text.USBDMAChannelDisable
+                0x00000000       0x3c ../lib/driverlib/bin/usb.o
+ .text.USBDMAChannelConfigSet
+                0x00000000       0x50 ../lib/driverlib/bin/usb.o
+ .text.USBDMAChannelStatus
+                0x00000000       0x3c ../lib/driverlib/bin/usb.o
+ .text.USBDMAChannelStatusClear
+                0x00000000       0x44 ../lib/driverlib/bin/usb.o
+ .text.USBDMAChannelAddressSet
+                0x00000000       0x38 ../lib/driverlib/bin/usb.o
+ .text.USBDMAChannelAddressGet
+                0x00000000       0x38 ../lib/driverlib/bin/usb.o
+ .text.USBDMAChannelCountSet
+                0x00000000       0x38 ../lib/driverlib/bin/usb.o
+ .text.USBDMAChannelCountGet
+                0x00000000       0x38 ../lib/driverlib/bin/usb.o
+ .text.USBDMANumChannels
+                0x00000000       0x24 ../lib/driverlib/bin/usb.o
+ .text.USBULPIConfig
+                0x00000000        0x8 ../lib/driverlib/bin/usb.o
+ .text.USBULPIEnable
+                0x00000000        0xe ../lib/driverlib/bin/usb.o
+ .text.USBULPIDisable
+                0x00000000        0xe ../lib/driverlib/bin/usb.o
+ .text.USBULPIRegRead
+                0x00000000       0x40 ../lib/driverlib/bin/usb.o
+ .text.USBULPIRegWrite
+                0x00000000       0x40 ../lib/driverlib/bin/usb.o
+ .text.USBHostLPMSend
+                0x00000000       0x58 ../lib/driverlib/bin/usb.o
+ .text.USBHostLPMConfig
+                0x00000000       0x50 ../lib/driverlib/bin/usb.o
+ .text.USBHostLPMResume
+                0x00000000       0x2c ../lib/driverlib/bin/usb.o
+ .text.USBDevLPMRemoteWake
+                0x00000000       0x2c ../lib/driverlib/bin/usb.o
+ .text.USBDevLPMConfig
+                0x00000000       0x28 ../lib/driverlib/bin/usb.o
+ .text.USBDevLPMEnable
+                0x00000000       0x2c ../lib/driverlib/bin/usb.o
+ .text.USBDevLPMDisable
+                0x00000000       0x2c ../lib/driverlib/bin/usb.o
+ .text.USBLPMLinkStateGet
+                0x00000000       0x28 ../lib/driverlib/bin/usb.o
+ .text.USBLPMEndpointGet
+                0x00000000       0x28 ../lib/driverlib/bin/usb.o
+ .text.USBLPMRemoteWakeEnabled
+                0x00000000       0x28 ../lib/driverlib/bin/usb.o
+ .text.USBLPMIntStatus
+                0x00000000       0x24 ../lib/driverlib/bin/usb.o
+ .text.USBLPMIntEnable
+                0x00000000       0x2c ../lib/driverlib/bin/usb.o
+ .text.USBLPMIntDisable
+                0x00000000       0x2c ../lib/driverlib/bin/usb.o
+ .debug_info    0x00000000     0x2f2f ../lib/driverlib/bin/usb.o
+ .debug_abbrev  0x00000000      0x1fe ../lib/driverlib/bin/usb.o
+ .debug_loclists
+                0x00000000     0x2205 ../lib/driverlib/bin/usb.o
+ .debug_aranges
+                0x00000000      0x350 ../lib/driverlib/bin/usb.o
+ .debug_rnglists
+                0x00000000      0x2a1 ../lib/driverlib/bin/usb.o
+ .debug_line    0x00000000     0x291b ../lib/driverlib/bin/usb.o
+ .debug_str     0x00000000      0xbde ../lib/driverlib/bin/usb.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/usb.o
+ .debug_frame   0x00000000      0xab8 ../lib/driverlib/bin/usb.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/usb.o
+ .text          0x00000000        0x0 ../lib/driverlib/bin/watchdog.o
+ .data          0x00000000        0x0 ../lib/driverlib/bin/watchdog.o
+ .bss           0x00000000        0x0 ../lib/driverlib/bin/watchdog.o
+ .rodata.WatchdogRunning.str1.1
+                0x00000000        0xb ../lib/driverlib/bin/watchdog.o
+ .text.WatchdogRunning
+                0x00000000       0x24 ../lib/driverlib/bin/watchdog.o
+ .text.WatchdogEnable
+                0x00000000       0x24 ../lib/driverlib/bin/watchdog.o
+ .text.WatchdogResetEnable
+                0x00000000       0x24 ../lib/driverlib/bin/watchdog.o
+ .text.WatchdogResetDisable
+                0x00000000       0x24 ../lib/driverlib/bin/watchdog.o
+ .text.WatchdogLock
+                0x00000000       0x24 ../lib/driverlib/bin/watchdog.o
+ .text.WatchdogUnlock
+                0x00000000       0x28 ../lib/driverlib/bin/watchdog.o
+ .text.WatchdogLockState
+                0x00000000       0x28 ../lib/driverlib/bin/watchdog.o
+ .text.WatchdogReloadSet
+                0x00000000       0x24 ../lib/driverlib/bin/watchdog.o
+ .text.WatchdogReloadGet
+                0x00000000       0x20 ../lib/driverlib/bin/watchdog.o
+ .text.WatchdogValueGet
+                0x00000000       0x20 ../lib/driverlib/bin/watchdog.o
+ .text.WatchdogIntRegister
+                0x00000000       0x30 ../lib/driverlib/bin/watchdog.o
+ .text.WatchdogIntUnregister
+                0x00000000       0x2c ../lib/driverlib/bin/watchdog.o
+ .text.WatchdogIntEnable
+                0x00000000       0x28 ../lib/driverlib/bin/watchdog.o
+ .text.WatchdogIntStatus
+                0x00000000       0x28 ../lib/driverlib/bin/watchdog.o
+ .text.WatchdogIntClear
+                0x00000000       0x24 ../lib/driverlib/bin/watchdog.o
+ .text.WatchdogIntTypeSet
+                0x00000000       0x3c ../lib/driverlib/bin/watchdog.o
+ .text.WatchdogStallEnable
+                0x00000000       0x2c ../lib/driverlib/bin/watchdog.o
+ .text.WatchdogStallDisable
+                0x00000000       0x2c ../lib/driverlib/bin/watchdog.o
+ .debug_info    0x00000000      0x688 ../lib/driverlib/bin/watchdog.o
+ .debug_abbrev  0x00000000      0x14b ../lib/driverlib/bin/watchdog.o
+ .debug_loclists
+                0x00000000      0x305 ../lib/driverlib/bin/watchdog.o
+ .debug_aranges
+                0x00000000       0xa8 ../lib/driverlib/bin/watchdog.o
+ .debug_rnglists
+                0x00000000       0x79 ../lib/driverlib/bin/watchdog.o
+ .debug_line    0x00000000      0x555 ../lib/driverlib/bin/watchdog.o
+ .debug_str     0x00000000      0x341 ../lib/driverlib/bin/watchdog.o
+ .comment       0x00000000       0x46 ../lib/driverlib/bin/watchdog.o
+ .debug_frame   0x00000000      0x1d4 ../lib/driverlib/bin/watchdog.o
+ .ARM.attributes
+                0x00000000       0x34 ../lib/driverlib/bin/watchdog.o
+ .text          0x00000000        0x0 ../lib/uart/bin/uart.a(uart.o)
+ .data          0x00000000        0x0 ../lib/uart/bin/uart.a(uart.o)
+ .bss           0x00000000        0x0 ../lib/uart/bin/uart.a(uart.o)
+ .text.uart_init
+                0x00000000       0x48 ../lib/uart/bin/uart.a(uart.o)
+ .text.nl       0x00000000        0x6 ../lib/uart/bin/uart.a(uart.o)
+ .text.uart_write_hex
+                0x00000000       0x2a ../lib/uart/bin/uart.a(uart.o)
+ .text.UART0_IRQHandler
+                0x00000000       0x24 ../lib/uart/bin/uart.a(uart.o)
+ .rodata.CSWTCH.2
+                0x00000000        0x3 ../lib/uart/bin/uart.a(uart.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00040000         xr
+SRAM             0x20000000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+
+.text           0x00000000      0xddc
+                0x00000000                        _text = .
+ *(.isr_vector)
+ .isr_vector    0x00000000      0x26c src/startup_gcc.o
+                0x00000000                g_pfnVectors
+ *(.text*)
+ .text.main     0x0000026c       0x78 src/bootloader.o
+                0x0000026c                main
+ .text.init_GPIO
+                0x000002e4       0x94 src/bootloader.o
+                0x000002e4                init_GPIO
+ .text.start_game
+                0x00000378       0x38 src/bootloader.o
+                0x00000378                start_game
+ .text.ResetISR
+                0x000003b0       0x6c src/startup_gcc.o
+                0x000003b0                ResetISR
+ .text.NmiSR    0x0000041c        0x8 src/startup_gcc.o
+ .text.FaultISR
+                0x00000424        0x8 src/startup_gcc.o
+ .text.IntDefaultHandler
+                0x0000042c        0x8 src/startup_gcc.o
+ .text.__error__
+                0x00000434        0x2 ../lib/driverlib/bin/flash.o
+                0x00000434                __error__
+ *fill*         0x00000436        0x2 
+ .text._GPIOBaseValid
+                0x00000438       0x54 ../lib/driverlib/bin/gpio.o
+ .text.GPIODirModeSet
+                0x0000048c       0x50 ../lib/driverlib/bin/gpio.o
+                0x0000048c                GPIODirModeSet
+ .text.GPIOPadConfigSet
+                0x000004dc      0x1a8 ../lib/driverlib/bin/gpio.o
+                0x000004dc                GPIOPadConfigSet
+ .text.GPIOPinTypeUART
+                0x00000684       0x34 ../lib/driverlib/bin/gpio.o
+                0x00000684                GPIOPinTypeUART
+ .text.GPIOPinConfigure
+                0x000006b8       0x68 ../lib/driverlib/bin/gpio.o
+                0x000006b8                GPIOPinConfigure
+ .text._SysCtlPeripheralValid
+                0x00000720       0xc0 ../lib/driverlib/bin/sysctl.o
+ .text.SysCtlPeripheralReady
+                0x000007e0       0x3c ../lib/driverlib/bin/sysctl.o
+                0x000007e0                SysCtlPeripheralReady
+ .text.SysCtlPeripheralEnable
+                0x0000081c       0x38 ../lib/driverlib/bin/sysctl.o
+                0x0000081c                SysCtlPeripheralEnable
+ .text.SysCtlClockGet
+                0x00000854      0x160 ../lib/driverlib/bin/sysctl.o
+                0x00000854                SysCtlClockGet
+ .text._UARTBaseValid
+                0x000009b4       0x20 ../lib/driverlib/bin/uart.o
+ .text.UARTEnable
+                0x000009d4       0x30 ../lib/driverlib/bin/uart.o
+                0x000009d4                UARTEnable
+ .text.UARTDisable
+                0x00000a04       0x34 ../lib/driverlib/bin/uart.o
+                0x00000a04                UARTDisable
+ .text.UARTConfigSetExpClk
+                0x00000a38       0x7c ../lib/driverlib/bin/uart.o
+                0x00000a38                UARTConfigSetExpClk
+ .text.UARTCharsAvail
+                0x00000ab4       0x28 ../lib/driverlib/bin/uart.o
+                0x00000ab4                UARTCharsAvail
+ .text.UARTCharGet
+                0x00000adc       0x24 ../lib/driverlib/bin/uart.o
+                0x00000adc                UARTCharGet
+ .text.UARTCharPut
+                0x00000b00       0x24 ../lib/driverlib/bin/uart.o
+                0x00000b00                UARTCharPut
+ .text.UARTClockSourceSet
+                0x00000b24       0x30 ../lib/driverlib/bin/uart.o
+                0x00000b24                UARTClockSourceSet
+ .text.initialize_uarts
+                0x00000b54       0x50 ../lib/uart/bin/uart.a(uart.o)
+                0x00000b54                initialize_uarts
+ .text.uart_read
+                0x00000ba4       0x38 ../lib/uart/bin/uart.a(uart.o)
+                0x00000ba4                uart_read
+ .text.uart_write
+                0x00000bdc       0x16 ../lib/uart/bin/uart.a(uart.o)
+                0x00000bdc                uart_write
+ .text.uart_write_str
+                0x00000bf2       0x16 ../lib/uart/bin/uart.a(uart.o)
+                0x00000bf2                uart_write_str
+ *(.rodata*)
+ .rodata        0x00000c08       0xbe src/bootloader.o
+ .rodata._GPIOIntNumberGet.str1.1
+                0x00000cc6       0x17 ../lib/driverlib/bin/gpio.o
+                                  0x7 (size before relaxing)
+ *fill*         0x00000cdd        0x3 
+ .rodata.g_pui32GPIOBaseAddrs
+                0x00000ce0       0x90 ../lib/driverlib/bin/gpio.o
+ .rodata.SysCtlPeripheralPresent.str1.1
+                0x00000d70        0x9 ../lib/driverlib/bin/sysctl.o
+ .rodata.g_pui32Xtals
+                0x00000d70       0x6c ../lib/driverlib/bin/sysctl.o
+ .rodata.UARTParityModeSet.str1.1
+                0x00000ddc        0x7 ../lib/driverlib/bin/uart.o
+                0x00000ddc                        _etext = .
+
+.glue_7         0x00000ddc        0x0
+ .glue_7        0x00000ddc        0x0 linker stubs
+
+.glue_7t        0x00000ddc        0x0
+ .glue_7t       0x00000ddc        0x0 linker stubs
+
+.vfp11_veneer   0x00000ddc        0x0
+ .vfp11_veneer  0x00000ddc        0x0 linker stubs
+
+.v4_bx          0x00000ddc        0x0
+ .v4_bx         0x00000ddc        0x0 linker stubs
+
+.iplt           0x00000ddc        0x0
+ .iplt          0x00000ddc        0x0 src/bootloader.o
+
+.rel.dyn        0x00000ddc        0x0
+ .rel.iplt      0x00000ddc        0x0 src/bootloader.o
+
+.ARM.exidx
+ *(.ARM.exidx*)
+ *(.gnu.linkonce.armexidx.*)
+                0x00000ddc                        _begin_data = .
+
+.data           0x20000000        0x0 load address 0x00000ddc
+                0x20000000                        _data = .
+                0x00000ddc                        _ldata = LOADADDR (.data)
+ *(vtable)
+ *(.data*)
+                0x20000000                        _edata = .
+
+.igot.plt       0x20000000        0x0
+ .igot.plt      0x20000000        0x0 src/bootloader.o
+
+.bss            0x20000000     0x5404
+                0x20000000                        _bss = .
+ *(.bss*)
+ .bss.state     0x20000000        0x4 src/bootloader.o
+                0x20000000                state
+ .bss.pui32Stack
+                0x20000004     0x5400 src/startup_gcc.o
+ *(COMMON)
+                0x20005404                        _ebss = .
+                0x20005404                        _end = _ebss
+                0x20005404                        end = _end
+LOAD src/bootloader.o
+LOAD src/startup_gcc.o
+LOAD ../lib/driverlib/bin/aes.o
+LOAD ../lib/driverlib/bin/can.o
+LOAD ../lib/driverlib/bin/comp.o
+LOAD ../lib/driverlib/bin/cpu.o
+LOAD ../lib/driverlib/bin/crc.o
+LOAD ../lib/driverlib/bin/des.o
+LOAD ../lib/driverlib/bin/eeprom.o
+LOAD ../lib/driverlib/bin/emac.o
+LOAD ../lib/driverlib/bin/epi.o
+LOAD ../lib/driverlib/bin/flash.o
+LOAD ../lib/driverlib/bin/fpu.o
+LOAD ../lib/driverlib/bin/gpio.o
+LOAD ../lib/driverlib/bin/hibernate.o
+LOAD ../lib/driverlib/bin/i2c.o
+LOAD ../lib/driverlib/bin/interrupt.o
+LOAD ../lib/driverlib/bin/lcd.o
+LOAD ../lib/driverlib/bin/mpu.o
+LOAD ../lib/driverlib/bin/onewire.o
+LOAD ../lib/driverlib/bin/pwm.o
+LOAD ../lib/driverlib/bin/qei.o
+LOAD ../lib/driverlib/bin/shamd5.o
+LOAD ../lib/driverlib/bin/ssi.o
+LOAD ../lib/driverlib/bin/sw_crc.o
+LOAD ../lib/driverlib/bin/sysctl.o
+LOAD ../lib/driverlib/bin/sysexc.o
+LOAD ../lib/driverlib/bin/systick.o
+LOAD ../lib/driverlib/bin/timer.o
+LOAD ../lib/driverlib/bin/uart.o
+LOAD ../lib/driverlib/bin/udma.o
+LOAD ../lib/driverlib/bin/usb.o
+LOAD ../lib/driverlib/bin/watchdog.o
+LOAD ../lib/uart/bin/uart.a
+LOAD ../lib/wolfssl/IDE/GCC-ARM/Build/libwolfssl.a
+LOAD /Applications/ArmGNUToolchain/14.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+LOAD /Applications/ArmGNUToolchain/14.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+LOAD /Applications/ArmGNUToolchain/14.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a
+OUTPUT(bin/bootloader.axf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000     0x5c08
+ .debug_info    0x00000000      0x217 src/bootloader.o
+ .debug_info    0x00000217      0x16e src/startup_gcc.o
+ .debug_info    0x00000385      0x5e5 ../lib/driverlib/bin/flash.o
+ .debug_info    0x0000096a     0x2385 ../lib/driverlib/bin/gpio.o
+ .debug_info    0x00002cef     0x1191 ../lib/driverlib/bin/sysctl.o
+ .debug_info    0x00003e80     0x1765 ../lib/driverlib/bin/uart.o
+ .debug_info    0x000055e5      0x623 ../lib/uart/bin/uart.a(uart.o)
+
+.debug_abbrev   0x00000000      0xc4e
+ .debug_abbrev  0x00000000      0x164 src/bootloader.o
+ .debug_abbrev  0x00000164       0xef src/startup_gcc.o
+ .debug_abbrev  0x00000253      0x1d4 ../lib/driverlib/bin/flash.o
+ .debug_abbrev  0x00000427      0x19e ../lib/driverlib/bin/gpio.o
+ .debug_abbrev  0x000005c5      0x295 ../lib/driverlib/bin/sysctl.o
+ .debug_abbrev  0x0000085a      0x1d6 ../lib/driverlib/bin/uart.o
+ .debug_abbrev  0x00000a30      0x21e ../lib/uart/bin/uart.a(uart.o)
+
+.debug_aranges  0x00000000      0x6a8
+ .debug_aranges
+                0x00000000       0x38 src/bootloader.o
+ .debug_aranges
+                0x00000038       0x38 src/startup_gcc.o
+ .debug_aranges
+                0x00000070       0xa8 ../lib/driverlib/bin/flash.o
+ .debug_aranges
+                0x00000118      0x1b0 ../lib/driverlib/bin/gpio.o
+ .debug_aranges
+                0x000002c8      0x1e8 ../lib/driverlib/bin/sysctl.o
+ .debug_aranges
+                0x000004b0      0x1a0 ../lib/driverlib/bin/uart.o
+ .debug_aranges
+                0x00000650       0x58 ../lib/uart/bin/uart.a(uart.o)
+
+.debug_rnglists
+                0x00000000      0x4ef
+ .debug_rnglists
+                0x00000000       0x26 src/bootloader.o
+ .debug_rnglists
+                0x00000026       0x25 src/startup_gcc.o
+ .debug_rnglists
+                0x0000004b       0x79 ../lib/driverlib/bin/flash.o
+ .debug_rnglists
+                0x000000c4      0x142 ../lib/driverlib/bin/gpio.o
+ .debug_rnglists
+                0x00000206      0x16d ../lib/driverlib/bin/sysctl.o
+ .debug_rnglists
+                0x00000373      0x133 ../lib/driverlib/bin/uart.o
+ .debug_rnglists
+                0x000004a6       0x49 ../lib/uart/bin/uart.a(uart.o)
+
+.debug_line     0x00000000     0x43d5
+ .debug_line    0x00000000      0x219 src/bootloader.o
+ .debug_line    0x00000219      0x17a src/startup_gcc.o
+ .debug_line    0x00000393      0x68f ../lib/driverlib/bin/flash.o
+ .debug_line    0x00000a22     0x1334 ../lib/driverlib/bin/gpio.o
+ .debug_line    0x00001d56     0x138a ../lib/driverlib/bin/sysctl.o
+ .debug_line    0x000030e0      0xfe1 ../lib/driverlib/bin/uart.o
+ .debug_line    0x000040c1      0x314 ../lib/uart/bin/uart.a(uart.o)
+
+.debug_str      0x00000000     0x16dd
+ .debug_str     0x00000000     0x16dd src/bootloader.o
+                                0x256 (size before relaxing)
+ .debug_str     0x000016dd      0x1fc src/startup_gcc.o
+ .debug_str     0x000016dd      0x451 ../lib/driverlib/bin/flash.o
+ .debug_str     0x000016dd      0x728 ../lib/driverlib/bin/gpio.o
+ .debug_str     0x000016dd      0x929 ../lib/driverlib/bin/sysctl.o
+ .debug_str     0x000016dd      0x6ce ../lib/driverlib/bin/uart.o
+ .debug_str     0x000016dd      0x31b ../lib/uart/bin/uart.a(uart.o)
+
+.comment        0x00000000       0x45
+ .comment       0x00000000       0x45 src/bootloader.o
+                                 0x46 (size before relaxing)
+ .comment       0x00000045       0x46 src/startup_gcc.o
+ .comment       0x00000045       0x46 ../lib/driverlib/bin/flash.o
+ .comment       0x00000045       0x46 ../lib/driverlib/bin/gpio.o
+ .comment       0x00000045       0x46 ../lib/driverlib/bin/sysctl.o
+ .comment       0x00000045       0x46 ../lib/driverlib/bin/uart.o
+ .comment       0x00000045       0x46 ../lib/uart/bin/uart.a(uart.o)
+
+.ARM.attributes
+                0x00000000       0x34
+ .ARM.attributes
+                0x00000000       0x34 src/bootloader.o
+ .ARM.attributes
+                0x00000034       0x34 src/startup_gcc.o
+ .ARM.attributes
+                0x00000068       0x34 ../lib/driverlib/bin/flash.o
+ .ARM.attributes
+                0x0000009c       0x34 ../lib/driverlib/bin/gpio.o
+ .ARM.attributes
+                0x000000d0       0x34 ../lib/driverlib/bin/sysctl.o
+ .ARM.attributes
+                0x00000104       0x34 ../lib/driverlib/bin/uart.o
+ .ARM.attributes
+                0x00000138       0x34 ../lib/uart/bin/uart.a(uart.o)
+
+.debug_frame    0x00000000     0x13d0
+ .debug_frame   0x00000000       0x9c src/bootloader.o
+ .debug_frame   0x0000009c       0x7c src/startup_gcc.o
+ .debug_frame   0x00000118      0x180 ../lib/driverlib/bin/flash.o
+ .debug_frame   0x00000298      0x678 ../lib/driverlib/bin/gpio.o
+ .debug_frame   0x00000910      0x4bc ../lib/driverlib/bin/sysctl.o
+ .debug_frame   0x00000dcc      0x51c ../lib/driverlib/bin/uart.o
+ .debug_frame   0x000012e8       0xe8 ../lib/uart/bin/uart.a(uart.o)
+
+.debug_loclists
+                0x00000000     0x304c
+ .debug_loclists
+                0x00000000      0x340 ../lib/driverlib/bin/flash.o
+ .debug_loclists
+                0x00000340     0x11b8 ../lib/driverlib/bin/gpio.o
+ .debug_loclists
+                0x000014f8      0xb9e ../lib/driverlib/bin/sysctl.o
+ .debug_loclists
+                0x00002096      0xccd ../lib/driverlib/bin/uart.o
+ .debug_loclists
+                0x00002d63      0x2e9 ../lib/uart/bin/uart.a(uart.o)
